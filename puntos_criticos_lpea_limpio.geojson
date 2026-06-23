@@ -1,0 +1,4265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14344294,
+          -16.50519792
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 1,
+        "gml_id": "Puntos_criticos_LPEA.1",
+        "distrito": "2",
+        "ubi": "Av. Buenos Aires - Copacabana",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14347313,
+          -16.51538213
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 2,
+        "gml_id": "Puntos_criticos_LPEA.2",
+        "distrito": "2",
+        "ubi": "Av. Buenos Aires - Moxos",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14301592,
+          -16.51450605
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 3,
+        "gml_id": "Puntos_criticos_LPEA.3",
+        "distrito": "2",
+        "ubi": "Av. Mercedes Belzu - Adrian Patino",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14382444,
+          -16.51164746
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 4,
+        "gml_id": "Puntos_criticos_LPEA.4",
+        "distrito": "2",
+        "ubi": "Av. Buenos Aires - Landaeta",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14090831,
+          -16.51425807
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 5,
+        "gml_id": "Puntos_criticos_LPEA.5",
+        "distrito": "2",
+        "ubi": "Av. Moxos - Caupolican",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14476513,
+          -16.52181947
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 6,
+        "gml_id": "Puntos_criticos_LPEA.6",
+        "distrito": "2",
+        "ubi": "Av. M Quiroga - Avaroa",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14871507,
+          -16.51998899
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 7,
+        "gml_id": "Puntos_criticos_LPEA.7",
+        "distrito": "2",
+        "ubi": "Av. 8 de Mayo - Moreno",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14093786,
+          -16.51667163
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 8,
+        "gml_id": "Puntos_criticos_LPEA.8",
+        "distrito": "2",
+        "ubi": "Huallparimachi - Rio Sewencani",
+        "tipo_rs": "organicos",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14001885,
+          -16.51948063
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 9,
+        "gml_id": "Puntos_criticos_LPEA.9",
+        "distrito": "2",
+        "ubi": "Av. Quiroga - Mercado",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.13505883,
+          -16.49720799
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 10,
+        "gml_id": "Puntos_criticos_LPEA.10",
+        "distrito": "2",
+        "ubi": "Av. Mercado - Topoquilla",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14725418,
+          -16.52059363
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 11,
+        "gml_id": "Puntos_criticos_LPEA.11",
+        "distrito": "2",
+        "ubi": "Av. Quiroga - Espinal",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15223467,
+          -16.50486763
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 12,
+        "gml_id": "Puntos_criticos_LPEA.12",
+        "distrito": "2",
+        "ubi": "Av. Quiroga - 8 de Mayo",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Esperanza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15316143,
+          -16.50193452
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 13,
+        "gml_id": "Puntos_criticos_LPEA.13",
+        "distrito": "3",
+        "ubi": "La Chimba - Gallardo",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Sagrado Corazon",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14701601,
+          -16.506566
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 14,
+        "gml_id": "Puntos_criticos_LPEA.14",
+        "distrito": "3",
+        "ubi": "Av. M. Monje - F. Pinto",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Sagrado Corazon",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14582675,
+          -16.50313815
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 15,
+        "gml_id": "Puntos_criticos_LPEA.15",
+        "distrito": "2",
+        "ubi": "Guaman de Ayala - 4 de mayo",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Sagrado Corazon",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15120464,
+          -16.50833959
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 16,
+        "gml_id": "Puntos_criticos_LPEA.16",
+        "distrito": "2",
+        "ubi": "Villamil de Rada - Agustin Iturricha",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Sagrado Corazon",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14846928,
+          -16.50750466
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 17,
+        "gml_id": "Puntos_criticos_LPEA.17",
+        "distrito": "2",
+        "ubi": "Calixto Maldonado - Quebrada Sagrado Corazon",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Sagrado Corazon",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16786543,
+          -16.49234639
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 18,
+        "gml_id": "Puntos_criticos_LPEA.18",
+        "distrito": "2",
+        "ubi": "Hnos. Manchego - IV Centenario",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Sagrado Corazon",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16496508,
+          -16.48692635
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 19,
+        "gml_id": "Puntos_criticos_LPEA.19",
+        "distrito": "3",
+        "ubi": "Av. Naciones Unidas - Tamayo",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16722526,
+          -16.4879999
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 20,
+        "gml_id": "Puntos_criticos_LPEA.20",
+        "distrito": "3",
+        "ubi": "Av. Naciones Unidas - Apumalla",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16185338,
+          -16.4948139
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 21,
+        "gml_id": "Puntos_criticos_LPEA.21",
+        "distrito": "3",
+        "ubi": "Av. Naciones Unidas - Arguedas",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15899332,
+          -16.49816411
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 22,
+        "gml_id": "Puntos_criticos_LPEA.22",
+        "distrito": "3",
+        "ubi": "Av. 5 de Agosto - 2do Bascones",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14188752,
+          -16.48249745
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 23,
+        "gml_id": "Puntos_criticos_LPEA.23",
+        "distrito": "3",
+        "ubi": "Utalpupera - 2do Bascones",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.13914816,
+          -16.48478335
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 24,
+        "gml_id": "Puntos_criticos_LPEA.24",
+        "distrito": "3",
+        "ubi": "Final 7 Enanos",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14379737,
+          -16.483962
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 25,
+        "gml_id": "Puntos_criticos_LPEA.25",
+        "distrito": "3",
+        "ubi": "Periferica - Calle Pizarro",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14435105,
+          -16.48273256
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 26,
+        "gml_id": "Puntos_criticos_LPEA.26",
+        "distrito": "4",
+        "ubi": "Periferica - Baltazar de Salas",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14826419,
+          -16.47786587
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 27,
+        "gml_id": "Puntos_criticos_LPEA.27",
+        "distrito": "4",
+        "ubi": "Av. Zarzuela - Cabo Juan Barbaro",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15077797,
+          -16.45712055
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 28,
+        "gml_id": "Puntos_criticos_LPEA.28",
+        "distrito": "4",
+        "ubi": "Perdro Marban",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Nueva America",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15067513,
+          -16.45080065
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 29,
+        "gml_id": "Puntos_criticos_LPEA.29",
+        "distrito": "3",
+        "ubi": "Rio Tinieblas - Las Lomas",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Alianza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.12977324,
+          -16.47711334
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 30,
+        "gml_id": "Puntos_criticos_LPEA.30",
+        "distrito": "3",
+        "ubi": "Gladiolo - Mantilla",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Alianza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.12642357,
+          -16.48756752
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 31,
+        "gml_id": "Puntos_criticos_LPEA.31",
+        "distrito": "4",
+        "ubi": "Final Adrian Pariente",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Horizontes",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.13356543,
+          -16.50418412
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 32,
+        "gml_id": "Puntos_criticos_LPEA.32",
+        "distrito": "4",
+        "ubi": "Peralta - Calle 9",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Horizontes",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.12430802,
+          -16.47552941
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 33,
+        "gml_id": "Puntos_criticos_LPEA.33",
+        "distrito": "2",
+        "ubi": "20 de octubre - Rio Kupini",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Senor de la Sentencia",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.10708845,
+          -16.49951916
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 34,
+        "gml_id": "Puntos_criticos_LPEA.34",
+        "distrito": "4",
+        "ubi": "Teoponte - Consata",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Foraleza",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.10110281,
+          -16.53468289
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 35,
+        "gml_id": "Puntos_criticos_LPEA.35",
+        "distrito": "6",
+        "ubi": "Union - Ibanez",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Illimani",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.11108411,
+          -16.49551455
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 36,
+        "gml_id": "Puntos_criticos_LPEA.36",
+        "distrito": "5",
+        "ubi": "Alfaro - Bolivar",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Illimani",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.11415902,
+          -16.48278225
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 37,
+        "gml_id": "Puntos_criticos_LPEA.37",
+        "distrito": "5",
+        "ubi": "Ballivian - Campero",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Illimani",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.13246309,
+          -16.51932473
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 38,
+        "gml_id": "Puntos_criticos_LPEA.38",
+        "distrito": "5",
+        "ubi": "Burgaleta - Kantutani",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Illimani",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.137641,
+          -16.51670784
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 39,
+        "gml_id": "Puntos_criticos_LPEA.39",
+        "distrito": "2",
+        "ubi": "Rio Melchuco",
+        "tipo_rs": "escombros",
+        "cantid": "360",
+        "reccol": "S/I",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.12023568,
+          -16.53048008
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 40,
+        "gml_id": "Puntos_criticos_LPEA.40",
+        "distrito": "2",
+        "ubi": "Rio Cotahuma",
+        "tipo_rs": "escombros",
+        "cantid": "360",
+        "reccol": "S/I",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14522554,
+          -16.47587277
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 41,
+        "gml_id": "Puntos_criticos_LPEA.41",
+        "distrito": "2",
+        "ubi": "Qda. LLojeta",
+        "tipo_rs": "escombros",
+        "cantid": "4500",
+        "reccol": "S/I",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.12034553,
+          -16.48269064
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 42,
+        "gml_id": "Puntos_criticos_LPEA.42",
+        "distrito": "4",
+        "ubi": "Rio Matadero",
+        "tipo_rs": "escombros",
+        "cantid": "2400",
+        "reccol": "S/I",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.11341098,
+          -16.47671218
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 43,
+        "gml_id": "Puntos_criticos_LPEA.43",
+        "distrito": "4",
+        "ubi": "Rio Chapuma",
+        "tipo_rs": "escombros",
+        "cantid": "2400",
+        "reccol": "S/I",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.11475998,
+          -16.47374842
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 44,
+        "gml_id": "Puntos_criticos_LPEA.44",
+        "distrito": "5",
+        "ubi": "Qda. San Simon",
+        "tipo_rs": "escombros",
+        "cantid": "2400",
+        "reccol": "S/I",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.07735903,
+          -16.53426036
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 45,
+        "gml_id": "Puntos_criticos_LPEA.45",
+        "distrito": "6",
+        "ubi": "Rio Orkojahuira",
+        "tipo_rs": "escombros",
+        "cantid": "5400",
+        "reccol": "S/I",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.12357596,
+          -16.50696445
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 46,
+        "gml_id": "Puntos_criticos_LPEA.46",
+        "distrito": "6",
+        "ubi": "Rio Iparvi",
+        "tipo_rs": "escombros",
+        "cantid": "4000",
+        "reccol": "S/I",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.08707608,
+          -16.49041137
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 47,
+        "gml_id": "Puntos_criticos_LPEA.47",
+        "distrito": "6",
+        "ubi": "Rio Achumani",
+        "tipo_rs": "escombros",
+        "cantid": "4000",
+        "reccol": "S/I",
+        "ciu": "LP",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17450225,
+          -16.4870145
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 48,
+        "gml_id": "Puntos_criticos_LPEA.48",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17146153,
+          -16.48824874
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 49,
+        "gml_id": "Puntos_criticos_LPEA.49",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16742271,
+          -16.49633335
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 50,
+        "gml_id": "Puntos_criticos_LPEA.50",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16229196,
+          -16.50291798
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 51,
+        "gml_id": "Puntos_criticos_LPEA.51",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16280572,
+          -16.50360548
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 52,
+        "gml_id": "Puntos_criticos_LPEA.52",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17483508,
+          -16.49991455
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 53,
+        "gml_id": "Puntos_criticos_LPEA.53",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18059074,
+          -16.49819243
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 54,
+        "gml_id": "Puntos_criticos_LPEA.54",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17836306,
+          -16.49039459
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 55,
+        "gml_id": "Puntos_criticos_LPEA.55",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17350044,
+          -16.49479964
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 56,
+        "gml_id": "Puntos_criticos_LPEA.56",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17734497,
+          -16.48677645
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 57,
+        "gml_id": "Puntos_criticos_LPEA.57",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18869987,
+          -16.48371487
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 58,
+        "gml_id": "Puntos_criticos_LPEA.58",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18779621,
+          -16.48262478
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 59,
+        "gml_id": "Puntos_criticos_LPEA.59",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18652211,
+          -16.48325075
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 60,
+        "gml_id": "Puntos_criticos_LPEA.60",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18663373,
+          -16.48262027
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 61,
+        "gml_id": "Puntos_criticos_LPEA.61",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18212467,
+          -16.48667056
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 62,
+        "gml_id": "Puntos_criticos_LPEA.62",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1815408,
+          -16.4872914
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 63,
+        "gml_id": "Puntos_criticos_LPEA.63",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18211551,
+          -16.48885147
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 64,
+        "gml_id": "Puntos_criticos_LPEA.64",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18262512,
+          -16.49053591
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 65,
+        "gml_id": "Puntos_criticos_LPEA.65",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18300609,
+          -16.49209522
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 66,
+        "gml_id": "Puntos_criticos_LPEA.66",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17975502,
+          -16.48192551
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 67,
+        "gml_id": "Puntos_criticos_LPEA.67",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.68",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17824345,
+          -16.48274717
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 68,
+        "gml_id": "Puntos_criticos_LPEA.68",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17522399,
+          -16.48406463
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 69,
+        "gml_id": "Puntos_criticos_LPEA.69",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17255,
+          -16.48513416
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 70,
+        "gml_id": "Puntos_criticos_LPEA.70",
+        "distrito": "6",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Fer",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17333811,
+          -16.47950836
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 71,
+        "gml_id": "Puntos_criticos_LPEA.71",
+        "distrito": "6",
+        "ubi": "frente la subalcaldia D-6",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16830636,
+          -16.52385067
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 72,
+        "gml_id": "Puntos_criticos_LPEA.72",
+        "distrito": "1",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Reg",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16726994,
+          -16.52430014
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 73,
+        "gml_id": "Puntos_criticos_LPEA.73",
+        "distrito": "1",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Reg",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.74",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16632833,
+          -16.52456854
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 74,
+        "gml_id": "Puntos_criticos_LPEA.74",
+        "distrito": "1",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Reg",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16529228,
+          -16.52492728
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 75,
+        "gml_id": "Puntos_criticos_LPEA.75",
+        "distrito": "1",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Reg",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16406658,
+          -16.52564814
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 76,
+        "gml_id": "Puntos_criticos_LPEA.76",
+        "distrito": "1",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Reg",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16940658,
+          -16.53047762
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 77,
+        "gml_id": "Puntos_criticos_LPEA.77",
+        "distrito": "1",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Reg",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.78",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16796827,
+          -16.53691301
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 78,
+        "gml_id": "Puntos_criticos_LPEA.78",
+        "distrito": "1",
+        "ubi": "Centro de Salud Santa Rosa",
+        "tipo_rs": "hospitalarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16824809,
+          -16.53745845
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 79,
+        "gml_id": "Puntos_criticos_LPEA.79",
+        "distrito": "1",
+        "ubi": "Centro de Salud Santa Rosa",
+        "tipo_rs": "hospitalarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16673939,
+          -16.53835963
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 80,
+        "gml_id": "Puntos_criticos_LPEA.80",
+        "distrito": "1",
+        "ubi": "mercado campesino Santa Rosa",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17583076,
+          -16.54583479
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 81,
+        "gml_id": "Puntos_criticos_LPEA.81",
+        "distrito": "1",
+        "ubi": "Av. 2 Rosas Pamapa",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ros",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16975262,
+          -16.54371467
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 82,
+        "gml_id": "Puntos_criticos_LPEA.82",
+        "distrito": "1",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Nue",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16519993,
+          -16.54435989
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 83,
+        "gml_id": "Puntos_criticos_LPEA.83",
+        "distrito": "1",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "31",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15397448,
+          -16.53436384
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 84,
+        "gml_id": "Puntos_criticos_LPEA.84",
+        "distrito": "1",
+        "ubi": "Calle a La Paz",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15530015,
+          -16.53365479
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 85,
+        "gml_id": "Puntos_criticos_LPEA.85",
+        "distrito": "1",
+        "ubi": "Calle a La Paz",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1598652,
+          -16.53010112
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 86,
+        "gml_id": "Puntos_criticos_LPEA.86",
+        "distrito": "1",
+        "ubi": "Centro Edu. Don Brosso",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16081985,
+          -16.52954363
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 87,
+        "gml_id": "Puntos_criticos_LPEA.87",
+        "distrito": "1",
+        "ubi": "Centro Edu. Don Brosso",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14516562,
+          -16.52845952
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 88,
+        "gml_id": "Puntos_criticos_LPEA.88",
+        "distrito": "1",
+        "ubi": "Av. Circunvalacion",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.89",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14542765,
+          -16.52902192
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 89,
+        "gml_id": "Puntos_criticos_LPEA.89",
+        "distrito": "1",
+        "ubi": "Av. Circunvalacion",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14869319,
+          -16.53230117
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 90,
+        "gml_id": "Puntos_criticos_LPEA.90",
+        "distrito": "1",
+        "ubi": "Av. Circunvalacion",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1489001,
+          -16.53337364
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 91,
+        "gml_id": "Puntos_criticos_LPEA.91",
+        "distrito": "1",
+        "ubi": "Av. Circunvalacion",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14889541,
+          -16.53444525
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 92,
+        "gml_id": "Puntos_criticos_LPEA.92",
+        "distrito": "1",
+        "ubi": "Av. Circunvalacion",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.93",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14899741,
+          -16.53531317
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 93,
+        "gml_id": "Puntos_criticos_LPEA.93",
+        "distrito": "1",
+        "ubi": "Av. Circunvalacion",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.94",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15715551,
+          -16.52059863
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 94,
+        "gml_id": "Puntos_criticos_LPEA.94",
+        "distrito": "1",
+        "ubi": "Av. Civica",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15610905,
+          -16.51794085
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 95,
+        "gml_id": "Puntos_criticos_LPEA.95",
+        "distrito": "1",
+        "ubi": "Av. Civica",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15417048,
+          -16.51364649
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 96,
+        "gml_id": "Puntos_criticos_LPEA.96",
+        "distrito": "1",
+        "ubi": "Av. Civica",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ciu",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16124559,
+          -16.50443857
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 97,
+        "gml_id": "Puntos_criticos_LPEA.97",
+        "distrito": "1",
+        "ubi": "Av. Tihuanacu",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Cej",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16097759,
+          -16.50525397
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 98,
+        "gml_id": "Puntos_criticos_LPEA.98",
+        "distrito": "1",
+        "ubi": "Av. Tihuanacu",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Cej",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.99",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15926754,
+          -16.50927848
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 99,
+        "gml_id": "Puntos_criticos_LPEA.99",
+        "distrito": "1",
+        "ubi": "Av. Tihuanacu",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Cej",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1606523,
+          -16.50708975
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 100,
+        "gml_id": "Puntos_criticos_LPEA.100",
+        "distrito": "1",
+        "ubi": "Av. Tihuanacu",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Cej",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15901873,
+          -16.50565434
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 101,
+        "gml_id": "Puntos_criticos_LPEA.101",
+        "distrito": "1",
+        "ubi": "Av. Panoramica",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Cej",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16330276,
+          -16.50577359
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 102,
+        "gml_id": "Puntos_criticos_LPEA.102",
+        "distrito": "1",
+        "ubi": "Av. 6 de Marzo",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Cej",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16135785,
+          -16.54235471
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 103,
+        "gml_id": "Puntos_criticos_LPEA.103",
+        "distrito": "1",
+        "ubi": "area forestal",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Exa",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16063656,
+          -16.54165317
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 104,
+        "gml_id": "Puntos_criticos_LPEA.104",
+        "distrito": "1",
+        "ubi": "area forestal",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Exa",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15853552,
+          -16.54097934
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 105,
+        "gml_id": "Puntos_criticos_LPEA.105",
+        "distrito": "1",
+        "ubi": "area forestal",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Exa",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15712473,
+          -16.54020847
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 106,
+        "gml_id": "Puntos_criticos_LPEA.106",
+        "distrito": "1",
+        "ubi": "area forestal",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Exa",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23583274,
+          -16.50859332
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 107,
+        "gml_id": "Puntos_criticos_LPEA.107",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Gra",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20380417,
+          -16.49338406
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 108,
+        "gml_id": "Puntos_criticos_LPEA.108",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20559944,
+          -16.49605601
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 109,
+        "gml_id": "Puntos_criticos_LPEA.109",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20232474,
+          -16.49143084
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 110,
+        "gml_id": "Puntos_criticos_LPEA.110",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.111",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22519278,
+          -16.48925962
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 111,
+        "gml_id": "Puntos_criticos_LPEA.111",
+        "distrito": "4",
+        "ubi": "rio Seke",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22820653,
+          -16.49212154
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 112,
+        "gml_id": "Puntos_criticos_LPEA.112",
+        "distrito": "4",
+        "ubi": "rio Seke",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23080095,
+          -16.49430313
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 113,
+        "gml_id": "Puntos_criticos_LPEA.113",
+        "distrito": "4",
+        "ubi": "rio Seke",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23416663,
+          -16.49716626
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 114,
+        "gml_id": "Puntos_criticos_LPEA.114",
+        "distrito": "4",
+        "ubi": "rio Seke",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24461237,
+          -16.50670689
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 115,
+        "gml_id": "Puntos_criticos_LPEA.115",
+        "distrito": "4",
+        "ubi": "rio Seke",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23654958,
+          -16.49948276
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 116,
+        "gml_id": "Puntos_criticos_LPEA.116",
+        "distrito": "4",
+        "ubi": "rio Seke",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20755342,
+          -16.49905812
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 117,
+        "gml_id": "Puntos_criticos_LPEA.117",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21043786,
+          -16.50486108
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 118,
+        "gml_id": "Puntos_criticos_LPEA.118",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21425983,
+          -16.51084853
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 119,
+        "gml_id": "Puntos_criticos_LPEA.119",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21865146,
+          -16.51520903
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 120,
+        "gml_id": "Puntos_criticos_LPEA.120",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22145569,
+          -16.51775352
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 121,
+        "gml_id": "Puntos_criticos_LPEA.121",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22828039,
+          -16.5237519
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 122,
+        "gml_id": "Puntos_criticos_LPEA.122",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23314565,
+          -16.52711836
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 123,
+        "gml_id": "Puntos_criticos_LPEA.123",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24026666,
+          -16.52949742
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 124,
+        "gml_id": "Puntos_criticos_LPEA.124",
+        "distrito": "4",
+        "ubi": "rio Seco",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21238546,
+          -16.51038897
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 125,
+        "gml_id": "Puntos_criticos_LPEA.125",
+        "distrito": "4",
+        "ubi": "rio Hernani",
+        "tipo_rs": "industriales",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20975841,
+          -16.51046955
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 126,
+        "gml_id": "Puntos_criticos_LPEA.126",
+        "distrito": "4",
+        "ubi": "rio Hernani",
+        "tipo_rs": "industriales",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20619548,
+          -16.51000354
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 127,
+        "gml_id": "Puntos_criticos_LPEA.127",
+        "distrito": "4",
+        "ubi": "rio Hernani",
+        "tipo_rs": "industriales",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.128",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20273899,
+          -16.50646087
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 128,
+        "gml_id": "Puntos_criticos_LPEA.128",
+        "distrito": "4",
+        "ubi": "rio Hernani",
+        "tipo_rs": "industriales",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.129",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19909576,
+          -16.50273642
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 129,
+        "gml_id": "Puntos_criticos_LPEA.129",
+        "distrito": "4",
+        "ubi": "rio Hernani",
+        "tipo_rs": "industriales",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19675135,
+          -16.50254642
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 130,
+        "gml_id": "Puntos_criticos_LPEA.130",
+        "distrito": "4",
+        "ubi": "rio Hernani",
+        "tipo_rs": "industriales",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19244605,
+          -16.50017683
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 131,
+        "gml_id": "Puntos_criticos_LPEA.131",
+        "distrito": "4",
+        "ubi": "rio Hernani",
+        "tipo_rs": "industriales",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19057636,
+          -16.49863109
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 132,
+        "gml_id": "Puntos_criticos_LPEA.132",
+        "distrito": "4",
+        "ubi": "rio Hernani",
+        "tipo_rs": "industriales",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18749065,
+          -16.49626612
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 133,
+        "gml_id": "Puntos_criticos_LPEA.133",
+        "distrito": "4",
+        "ubi": "rio Hernani",
+        "tipo_rs": "industriales",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Rio",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23357481,
+          -16.51345429
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 134,
+        "gml_id": "Puntos_criticos_LPEA.134",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios y escombros",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Are",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24399218,
+          -16.51240623
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 135,
+        "gml_id": "Puntos_criticos_LPEA.135",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios y escombros",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Are",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.136",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22100439,
+          -16.5133173
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 136,
+        "gml_id": "Puntos_criticos_LPEA.136",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "domiciliarios y escombros",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Are",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.137",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23486823,
+          -16.51852709
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 137,
+        "gml_id": "Puntos_criticos_LPEA.137",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "residuos de coca y domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Ningun",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24132978,
+          -16.52153719
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 138,
+        "gml_id": "Puntos_criticos_LPEA.138",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "residuos de coca y domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Ningun",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.25101272,
+          -16.51641357
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 139,
+        "gml_id": "Puntos_criticos_LPEA.139",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "residuos de coca y domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Ningun",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24525459,
+          -16.52553346
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 140,
+        "gml_id": "Puntos_criticos_LPEA.140",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "residuos de coca y domiciliarios",
+        "cantid": "S/I",
+        "reccol": "Ningun",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23445153,
+          -16.50522191
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 141,
+        "gml_id": "Puntos_criticos_LPEA.141",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Jua",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.23652845,
+          -16.50188096
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 142,
+        "gml_id": "Puntos_criticos_LPEA.142",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Jua",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22499135,
+          -16.50156701
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 143,
+        "gml_id": "Puntos_criticos_LPEA.143",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Jua",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22610551,
+          -16.50446717
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 144,
+        "gml_id": "Puntos_criticos_LPEA.144",
+        "distrito": "4",
+        "ubi": "S/I",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Jua",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.145",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21310032,
+          -16.49600205
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 145,
+        "gml_id": "Puntos_criticos_LPEA.145",
+        "distrito": "4",
+        "ubi": "Centro de Salud Carmen",
+        "tipo_rs": "hospitalarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.21478988,
+          -16.49573689
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 146,
+        "gml_id": "Puntos_criticos_LPEA.146",
+        "distrito": "4",
+        "ubi": "Mercado Carmen",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.22511326,
+          -16.49450838
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 147,
+        "gml_id": "Puntos_criticos_LPEA.147",
+        "distrito": "4",
+        "ubi": "Mercado Villa Yunguyo",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "San",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20326805,
+          -16.49180179
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 148,
+        "gml_id": "Puntos_criticos_LPEA.148",
+        "distrito": "4",
+        "ubi": "rio Seco - Ex Tranca",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ex",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20374075,
+          -16.49089858
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 149,
+        "gml_id": "Puntos_criticos_LPEA.149",
+        "distrito": "4",
+        "ubi": "rio Seco - Ex Tranca",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ex",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.20702672,
+          -16.49018706
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 150,
+        "gml_id": "Puntos_criticos_LPEA.150",
+        "distrito": "4",
+        "ubi": "rio Seco - Ex Tranca",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Ex",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.19574268,
+          -16.49693152
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 151,
+        "gml_id": "Puntos_criticos_LPEA.151",
+        "distrito": "4",
+        "ubi": "Mercado campesino",
+        "tipo_rs": "mercado",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Tun",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18193875,
+          -16.59180311
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 152,
+        "gml_id": "Puntos_criticos_LPEA.152",
+        "distrito": "8",
+        "ubi": "Calle Tito Cusi",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Sen",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18194013,
+          -16.59207358
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 153,
+        "gml_id": "Puntos_criticos_LPEA.153",
+        "distrito": "8",
+        "ubi": "Calle Tito Cusi",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Sen",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18192909,
+          -16.59243181
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 154,
+        "gml_id": "Puntos_criticos_LPEA.154",
+        "distrito": "8",
+        "ubi": "Calle Tito Cusi",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Sen",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18143899,
+          -16.59343123
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 155,
+        "gml_id": "Puntos_criticos_LPEA.155",
+        "distrito": "8",
+        "ubi": "Calle Martin S. de Alcaya",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Sen",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1778501,
+          -16.58188172
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 156,
+        "gml_id": "Puntos_criticos_LPEA.156",
+        "distrito": "8",
+        "ubi": "Av. Teduzara",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Sen",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17721376,
+          -16.58142906
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 157,
+        "gml_id": "Puntos_criticos_LPEA.157",
+        "distrito": "8",
+        "ubi": "Av. Teduzara",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Sen",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.17668064,
+          -16.58134427
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 158,
+        "gml_id": "Puntos_criticos_LPEA.158",
+        "distrito": "8",
+        "ubi": "Av. Panamericana",
+        "tipo_rs": "domiciliarios",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "Zon",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1873044,
+          -16.56106536
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 159,
+        "gml_id": "Puntos_criticos_LPEA.159",
+        "distrito": "2",
+        "ubi": "S/I",
+        "tipo_rs": "vehiculos",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24749679,
+          -16.49129743
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 160,
+        "gml_id": "Puntos_criticos_LPEA.160",
+        "distrito": "7",
+        "ubi": "rio Negro",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.161",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2435552,
+          -16.4776102
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 161,
+        "gml_id": "Puntos_criticos_LPEA.161",
+        "distrito": "7",
+        "ubi": "rio Negro",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.162",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24363642,
+          -16.48118934
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 162,
+        "gml_id": "Puntos_criticos_LPEA.162",
+        "distrito": "7",
+        "ubi": "rio Negro",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.163",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24485929,
+          -16.48468083
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 163,
+        "gml_id": "Puntos_criticos_LPEA.163",
+        "distrito": "7",
+        "ubi": "rio Negro",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.164",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24372547,
+          -16.48274967
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 164,
+        "gml_id": "Puntos_criticos_LPEA.164",
+        "distrito": "7",
+        "ubi": "rio Negro",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2608622,
+          -16.47822261
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 165,
+        "gml_id": "Puntos_criticos_LPEA.165",
+        "distrito": "7",
+        "ubi": "rio Poncoro",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.25991359,
+          -16.4775769
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 166,
+        "gml_id": "Puntos_criticos_LPEA.166",
+        "distrito": "7",
+        "ubi": "rio Poncoro",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.25649611,
+          -16.47591302
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 167,
+        "gml_id": "Puntos_criticos_LPEA.167",
+        "distrito": "7",
+        "ubi": "rio Poncoro",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.27608897,
+          -16.47561462
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 168,
+        "gml_id": "Puntos_criticos_LPEA.168",
+        "distrito": "7",
+        "ubi": "quebradas carretera a Copacabana",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.26780972,
+          -16.47696231
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 169,
+        "gml_id": "Puntos_criticos_LPEA.169",
+        "distrito": "7",
+        "ubi": "quebradas carretera a Copacabana",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "puntos_criticos_lpea.170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.24896309,
+          -16.48102499
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "ogc_fid": 170,
+        "gml_id": "Puntos_criticos_LPEA.170",
+        "distrito": "7",
+        "ubi": "quebradas carretera a Copacabana",
+        "tipo_rs": "todo tipo",
+        "cantid": "S/I",
+        "reccol": "TREBOL",
+        "ciu": "EA",
+        "tipo_punto": "punto critico",
+        "zon": "S/I",
+        "rut": "S/I"
+      }
+    }
+  ],
+  "totalFeatures": 170,
+  "numberMatched": 170,
+  "numberReturned": 170,
+  "timeStamp": "2025-11-24T15:20:34.185Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}

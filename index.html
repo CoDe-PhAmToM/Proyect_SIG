@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Residuos en Bolivia | La Paz & El Alto</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-gray-50 text-gray-800">
+    <section id="inicio" class="pt-24 pb-12 md:pt-32 md:pb-20 bg-eco-gradient text-white relative overflow-hidden">
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')] bg-cover bg-center opacity-20"></div>
+        <div class="max-w-7xl mx-auto px-4 relative z-10 text-center fade-in-section">
+            <h1 class="text-4xl md:text-6xl font-bold mb-6">Generación de Basura en Bolivia</h1>
+            <p class="text-xl md:text-2xl mb-8 font-light max-w-3xl mx-auto">Un análisis profundo sobre la gestión de residuos sólidos en La Paz y El Alto, los retos ambientales y el camino hacia la sostenibilidad.</p>
+            <div class="flex flex-col sm:flex-row justify-center gap-4">
+                <a href="#mapa-section" class="bg-white text-green-800 font-bold py-3 px-8 rounded-full hover:bg-green-50 transition shadow-lg transform hover:scale-105">
+                    <i class="fas fa-map-marked-alt mr-2"></i> Ver Mapa
+                </a>
+                <a href="#FAQ-consejos" class="bg-indigo-600 text-white font-bold py-3 px-8 rounded-full hover:bg-indigo-700 transition shadow-lg transform hover:scale-105 border border-indigo-500">
+                    <i class="fas fa-magic mr-2"></i> Consejos y FAQ
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-16 bg-white fade-in-section">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-green-800">¿Qué es la Generación de Residuos?</h2>
+                <div class="w-24 h-1 bg-green-600 mx-auto mt-4 rounded"></div>
+            </div>
+            <div class="grid md:grid-cols-2 gap-12 items-center">
+                <div class="space-y-6 text-lg text-gray-600">
+                    <p>La <strong>generación de basura</strong> se refiere al volumen de materiales que son descartados por la población, industrias y comercios. En Bolivia, este es un problema creciente debido a la urbanización acelerada y el cambio en los patrones de consumo.</p>
+                    <div class="bg-green-50 p-6 rounded-xl border-l-4 border-green-600">
+                        <p class="font-semibold text-green-900"> <i class="fas fa-info-circle mr-2"></i> Dato Clave</p>
+                        <p>Bolivia genera aproximadamente entre <strong>7,000 y 8,000 toneladas</strong> de basura al día a nivel nacional.</p>
+                    </div>
+                </div>
+                <div class="grid grid-cols-2 gap-4">
+                    <div class="bg-gray-50 p-6 rounded-lg text-center shadow card-hover transition duration-300">
+                        <i class="fas fa-apple-alt text-4xl text-green-500 mb-3"></i>
+                        <h3 class="font-bold">Orgánicos</h3>
+                        <p class="text-sm text-gray-500">~55% del total</p>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-lg text-center shadow card-hover transition duration-300">
+                        <i class="fas fa-bottle-water text-4xl text-blue-500 mb-3"></i>
+                        <h3 class="font-bold">Plásticos</h3>
+                        <p class="text-sm text-gray-500">~12% del total</p>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-lg text-center shadow card-hover transition duration-300">
+                        <i class="fas fa-newspaper text-4xl text-gray-500 mb-3"></i>
+                        <h3 class="font-bold">Papel/Cartón</h3>
+                        <p class="text-sm text-gray-500">~8% del total</p>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-lg text-center shadow card-hover transition duration-300">
+                        <i class="fas fa-wine-bottle text-4xl text-amber-600 mb-3"></i>
+                        <h3 class="font-bold">Vidrio/Otros</h3>
+                        <p class="text-sm text-gray-500">~25% del total</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="mapa-section" class="py-16 bg-green-500 fade-in-section relative">
+        <div id="loader">
+            <div class="spinner"></div>
+            <p style="margin-top: 15px; color: #333; font-weight: 500;">Consultando OpenStreetMap (Datos Reales)...</p>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-8 pt-20 md:pt-0">
+                <h2 class="text-3xl font-bold text-gray-800">Mapa Interactivo: La Paz y El Alto</h2>
+                <p class="text-gray-600 mt-2">Puntos de basura y reciclaje reportados en tiempo real por la comunidad.</p>
+            </div>
+            <div class="bg-green-300 p-2 rounded-xl shadow-xl map-frame">
+                <div id="map"></div>
+            </div>
+
+            <div class="flex justify-center mt-6">
+                <button id="statsToggleBtn" class="bg-indigo-700 text-white font-bold py-3 px-8 rounded-full hover:bg-indigo-800 transition shadow-lg transform hover:scale-105">
+                    <i class="fas fa-chart-pie mr-2"></i> Ver Análisis Espacial
+                </button>
+            </div>
+        </div>
+
+        <div id="statsOverlay" class="stats-overlay"></div>
+        <aside id="statsPanel" class="stats-panel">
+            <div class="stats-panel-header">
+                <h3><i class="fas fa-map-marked-alt mr-2"></i>Análisis Espacial</h3>
+                <button id="statsCloseBtn" aria-label="Cerrar">&times;</button>
+            </div>
+            <div id="statsPanelContent" class="stats-panel-content">
+                <p class="text-gray-400 text-sm">Cargando análisis...</p>
+            </div>
+        </aside>
+    </section>
+
+    <section id="datos" class="py-16 bg-white fade-in-section">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-green-800">Datos y Estadísticas</h2>
+                <p class="text-gray-600">Estimaciones basadas en reportes municipales (EMALT, SIREMU) e informes nacionales.</p>
+            </div>
+
+            <div id="graficas" class="grid md:grid-cols-2 gap-12">
+                <div class="bg-white p-6 rounded-xl shadow-lg border border-gray-100">
+                    <h3 class="text-xl font-bold mb-4 text-center">Generación Diaria por Ciudad (Toneladas)</h3>
+                    <canvas id="barChart"></canvas>
+                    <p class="mt-4 text-sm text-gray-500 italic text-center">*Santa Cruz lidera la generación debido a su población y actividad industrial.</p>
+                </div>
+
+                <div class="bg-white p-6 rounded-xl shadow-lg border border-gray-100">
+                    <h3 class="text-xl font-bold mb-4 text-center">Composición de los Residuos</h3>
+                    <div class="h-64 flex justify-center">
+                        <canvas id="pieChart"></canvas>
+                    </div>
+                    <p class="mt-4 text-sm text-gray-500 italic text-center">*Más de la mitad de la basura en Bolivia es orgánica y compostable.</p>
+                </div>
+            </div>
+
+            <div class="grid md:grid-cols-4 gap-6 mt-12">
+                <div class="bg-green-50 p-6 rounded-lg border-l-4 border-green-600 shadow-sm">
+                    <h4 class="font-bold text-green-800 text-lg">La Paz</h4>
+                    <p class="text-3xl font-bold text-gray-800 my-2">~680</p>
+                    <p class="text-sm text-gray-600">Toneladas/día</p>
+                </div>
+                <div class="bg-green-50 p-6 rounded-lg border-l-4 border-green-600 shadow-sm">
+                    <h4 class="font-bold text-green-800 text-lg">El Alto</h4>
+                    <p class="text-3xl font-bold text-gray-800 my-2">~700</p>
+                    <p class="text-sm text-gray-600">Toneladas/día (Creciente)</p>
+                </div>
+                <div class="bg-green-50 p-6 rounded-lg border-l-4 border-green-600 shadow-sm">
+                    <h4 class="font-bold text-green-800 text-lg">Santa Cruz</h4>
+                    <p class="text-3xl font-bold text-gray-800 my-2">~1,900</p>
+                    <p class="text-sm text-gray-600">Toneladas/día</p>
+                </div>
+                <div class="bg-green-50 p-6 rounded-lg border-l-4 border-green-600 shadow-sm">
+                    <h4 class="font-bold text-green-800 text-lg">Cochabamba</h4>
+                    <p class="text-3xl font-bold text-gray-800 my-2">~600</p>
+                    <p class="text-sm text-gray-600">Toneladas/día</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="FAQ-consejos" class="py-16 bg-indigo-50 fade-in-section">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-10">
+                <h2 class="text-3xl font-bold text-indigo-900 mt-2">Consejos rápidos y Preguntas Frecuentes</h2>
+                <p class="text-gray-600 mt-2 max-w-2xl mx-auto">Guía práctica y respuestas útiles sobre cómo gestionar residuos en La Paz y El Alto.</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="bg-white rounded-2xl shadow-xl overflow-hidden border border-indigo-100 p-6">
+                    <h3 class="font-bold text-lg mb-4">Consejos Prácticos</h3>
+                    <ul class="list-disc list-inside space-y-3 text-gray-700">
+                        <li><strong>Separa en origen:</strong> usa contenedores o bolsas separadas para orgánico, reciclable y resto.</li>
+                        <li><strong>Lava y aplasta:</strong> enjuaga envases plásticos y aplástalos para ahorrar espacio.</li>
+                        <li><strong>Pilas y aparatos:</strong> nunca en la basura común; entrégalos en puntos de recolección o centros municipales.</li>
+                        <li><strong>Compostaje:</strong> los residuos orgánicos pueden convertirse en abono doméstico o comunitario.</li>
+                        <li><strong>Reducir y reusar:</strong> evita productos de un solo uso y reutiliza recipientes cuando sea posible.</li>
+                    </ul>
+                </div>
+
+                <div class="bg-white rounded-2xl shadow-xl overflow-hidden border border-green-100 p-6">
+                    <h3 class="font-bold text-lg mb-4">Preguntas Frecuentes (FAQ)</h3>
+                    <div class="space-y-4 text-gray-700">
+                        <div>
+                            <strong>¿Dónde tiro las pilas?</strong>
+                            <p class="text-sm text-gray-600">Hay puntos municipales y campañas puntuales para recoger pilas y baterías; consulta con tu alcaldía o centro de acopio local.</p>
+                        </div>
+                        <div>
+                            <strong>¿El cartón grasoso se recicla?</strong>
+                            <p class="text-sm text-gray-600">Si está muy impregnado (ej. pizza grasosa), conviene desecharlo con orgánicos; si solo tiene restos mínimos, sepáralo para reciclaje.</p>
+                        </div>
+                        <div>
+                            <strong>¿Cómo deshacerme de medicamentos vencidos?</strong>
+                            <p class="text-sm text-gray-600">No los arrojes a desagües ni a la basura común; consulta puntos de recolección en farmacias o campañas municipales.</p>
+                        </div>
+                        <div>
+                            <strong>¿Qué hago con vidrio?</strong>
+                            <p class="text-sm text-gray-600">Separa por color si es posible y lleva a puntos de reciclaje o deposítalo en contenedores específicos cuando existan.</p>
+                        </div>
+                        <div>
+                            <strong>¿Cómo reporto un punto de basura ilegal?</strong>
+                            <p class="text-sm text-gray-600">Contacta con la municipalidad local o usa plataformas ciudadanas que reportan incidencias; algunos municipios tienen líneas de atención.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="soluciones" class="py-16 bg-gray-50 fade-in-section">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid md:grid-cols-2 gap-12">
+                <div>
+                    <h2 class="text-2xl font-bold text-red-700 mb-6"><i class="fas fa-exclamation-triangle mr-2"></i>Problemas Ambientales</h2>
+                    <ul class="space-y-4">
+                        <li class="flex items-start bg-white p-4 rounded-lg shadow-sm">
+                            <i class="fas fa-skull-crossbones text-red-500 mt-1 mr-3"></i>
+                            <div>
+                                <h4 class="font-bold">Lixiviados Tóxicos</h4>
+                                <p class="text-sm text-gray-600">Líquidos que contaminan aguas subterráneas, como ocurrió en Alpacoma (2019).</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start bg-white p-4 rounded-lg shadow-sm">
+                            <i class="fas fa-wind text-red-500 mt-1 mr-3"></i>
+                            <div>
+                                <h4 class="font-bold">Gases de Efecto Invernadero</h4>
+                                <p class="text-sm text-gray-600">La descomposición sin control genera metano, un gas potente para el calentamiento global.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start bg-white p-4 rounded-lg shadow-sm">
+                            <i class="fas fa-virus text-red-500 mt-1 mr-3"></i>
+                            <div>
+                                <h4 class="font-bold">Vectores de Enfermedades</h4>
+                                <p class="text-sm text-gray-600">Acumulación de basura en calles atrae roedores e insectos.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h2 class="text-2xl font-bold text-green-700 mb-6"><i class="fas fa-lightbulb mr-2"></i>Soluciones y Propuestas</h2>
+                    <ul class="space-y-4">
+                        <li class="flex items-start bg-white p-4 rounded-lg shadow-sm border-l-4 border-green-500">
+                            <i class="fas fa-recycle text-green-500 mt-1 mr-3"></i>
+                            <div>
+                                <h4 class="font-bold">Separación en Origen</h4>
+                                <p class="text-sm text-gray-600">Clasificar residuos en casa facilita el reciclaje y reduce la carga en los rellenos.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start bg-white p-4 rounded-lg shadow-sm border-l-4 border-green-500">
+                            <i class="fas fa-seedling text-green-500 mt-1 mr-3"></i>
+                            <div>
+                                <h4 class="font-bold">Compostaje Municipal</h4>
+                                <p class="text-sm text-gray-600">Aprovechar el 55% de residuos orgánicos para crear abono para parques y jardines.</p>
+                            </div>
+                        </li>
+                        <li class="flex items-start bg-white p-4 rounded-lg shadow-sm border-l-4 border-green-500">
+                            <i class="fas fa-industry text-green-500 mt-1 mr-3"></i>
+                            <div>
+                                <h4 class="font-bold">Economía Circular</h4>
+                                <p class="text-sm text-gray-600">Fomentar empresas que usen residuos (plástico, vidrio) como materia prima.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="app.js"></script>
+</body>
+</html> 

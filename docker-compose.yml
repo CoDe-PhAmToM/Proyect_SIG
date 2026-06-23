@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: residuos_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: residuos_user
+      POSTGRES_PASSWORD: residuos_pass
+      POSTGRES_DB: residuos_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - residuos_pgdata:/var/lib/postgresql/data
+
+volumes:
+  residuos_pgdata:

@@ -1,0 +1,59 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.envrc
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build and temp files
+*.tmp
+*.bak
+*.old
+*~
+
+# PowerShell history
+ConsoleHost_history.txt
+
+# Local database files
+*.sqlite
+*.db
+*.sqlite3
+
+# GDAL/OGR generated sidecar files
+*.aux
+*.log
+*.gfs
+*.vrt
+*.ovr
+*.tif.ovr
+
+# Optional generated documents (ignore if not committed)
+*.docx
+*.pdf
+
+# Docker local override
+docker-compose.override.yml

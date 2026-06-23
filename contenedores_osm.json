@@ -1,0 +1,5554 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-22T04:31:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3313411915,
+  "lat": -16.4976432,
+  "lon": -68.1342307,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-20",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 3681278238,
+  "lat": -16.5004603,
+  "lon": -68.1265351,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 3682612226,
+  "lat": -16.4603787,
+  "lon": -68.1060339,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4249903193,
+  "lat": -16.4906868,
+  "lon": -68.1071114,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4249903230,
+  "lat": -16.4907832,
+  "lon": -68.1072518,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4356686674,
+  "lat": -16.4877957,
+  "lon": -68.1262025,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4366825589,
+  "lat": -16.5170025,
+  "lon": -68.1207751,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Ema verde"
+  }
+},
+{
+  "type": "node",
+  "id": 4455975430,
+  "lat": -16.4959621,
+  "lon": -68.1230641,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4535061390,
+  "lat": -16.4998424,
+  "lon": -68.1320537,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Guidex"
+  }
+},
+{
+  "type": "node",
+  "id": 4538946987,
+  "lat": -16.5027116,
+  "lon": -68.1243293,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4538946988,
+  "lat": -16.5027666,
+  "lon": -68.1244229,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4538947395,
+  "lat": -16.5028710,
+  "lon": -68.1242482,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4599751316,
+  "lat": -16.4872150,
+  "lon": -68.1549322,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4603576902,
+  "lat": -16.4895997,
+  "lon": -68.1585192,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4609562889,
+  "lat": -16.4892308,
+  "lon": -68.1057369,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4668256089,
+  "lat": -16.5277532,
+  "lon": -68.1057990,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "name": "Botellas Pett",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 4671506495,
+  "lat": -16.5027614,
+  "lon": -68.1198843,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4671506496,
+  "lat": -16.5027507,
+  "lon": -68.1199153,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4671551192,
+  "lat": -16.4954975,
+  "lon": -68.1152962,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4674974591,
+  "lat": -16.4854825,
+  "lon": -68.1465251,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4677299953,
+  "lat": -16.4907316,
+  "lon": -68.1071977,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4755719553,
+  "lat": -16.4889269,
+  "lon": -68.1611376,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4826316721,
+  "lat": -16.5310077,
+  "lon": -68.1053297,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Contenedor de basura"
+  }
+},
+{
+  "type": "node",
+  "id": 4836998916,
+  "lat": -16.4973398,
+  "lon": -68.1302258,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4837011065,
+  "lat": -16.4910330,
+  "lon": -68.1048654,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4888437521,
+  "lat": -16.5122943,
+  "lon": -68.1294210,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888453121,
+  "lat": -16.5054211,
+  "lon": -68.1297218,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888604222,
+  "lat": -16.4979498,
+  "lon": -68.1324437,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888604223,
+  "lat": -16.4978942,
+  "lon": -68.1324906,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888604522,
+  "lat": -16.4987368,
+  "lon": -68.1325199,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888606122,
+  "lat": -16.4979832,
+  "lon": -68.1323091,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888608621,
+  "lat": -16.4985672,
+  "lon": -68.1314191,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888608622,
+  "lat": -16.4985900,
+  "lon": -68.1313389,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888612221,
+  "lat": -16.4978287,
+  "lon": -68.1325354,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888612222,
+  "lat": -16.4976128,
+  "lon": -68.1327641,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888612223,
+  "lat": -16.4963973,
+  "lon": -68.1349239,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888621521,
+  "lat": -16.4965136,
+  "lon": -68.1347174,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888621522,
+  "lat": -16.4961602,
+  "lon": -68.1353249,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888629121,
+  "lat": -16.4944530,
+  "lon": -68.1365943,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4888629123,
+  "lat": -16.4949726,
+  "lon": -68.1355274,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4890529722,
+  "lat": -16.4955427,
+  "lon": -68.1339659,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4890537521,
+  "lat": -16.4957158,
+  "lon": -68.1341465,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4890671021,
+  "lat": -16.4992969,
+  "lon": -68.1334818,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4917332123,
+  "lat": -16.5022192,
+  "lon": -68.1350021,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4917332131,
+  "lat": -16.5137289,
+  "lon": -68.1272525,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4917335727,
+  "lat": -16.5060045,
+  "lon": -68.1289189,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4917736323,
+  "lat": -16.4951374,
+  "lon": -68.1337720,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-20"
+  }
+},
+{
+  "type": "node",
+  "id": 4917736324,
+  "lat": -16.4954360,
+  "lon": -68.1337509,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4917736923,
+  "lat": -16.4953807,
+  "lon": -68.1336661,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4917737322,
+  "lat": -16.4953475,
+  "lon": -68.1335712,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4919509127,
+  "lat": -16.5156839,
+  "lon": -68.1257836,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4919509128,
+  "lat": -16.5150022,
+  "lon": -68.1261162,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4919509134,
+  "lat": -16.5092582,
+  "lon": -68.1261520,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4919509430,
+  "lat": -16.5147986,
+  "lon": -68.1261234,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4920982326,
+  "lat": -16.4969689,
+  "lon": -68.1327310,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4920989821,
+  "lat": -16.4968078,
+  "lon": -68.1326425,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4927244328,
+  "lat": -16.4954657,
+  "lon": -68.1339045,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-20"
+  }
+},
+{
+  "type": "node",
+  "id": 4927252924,
+  "lat": -16.4979930,
+  "lon": -68.1355767,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4927252927,
+  "lat": -16.5017910,
+  "lon": -68.1311173,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4927253223,
+  "lat": -16.4940540,
+  "lon": -68.1355980,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4927253225,
+  "lat": -16.5014515,
+  "lon": -68.1315308,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4927256423,
+  "lat": -16.5020424,
+  "lon": -68.1307074,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4927256424,
+  "lat": -16.4966500,
+  "lon": -68.1327323,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4927256425,
+  "lat": -16.4952920,
+  "lon": -68.1337741,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4927256521,
+  "lat": -16.4941831,
+  "lon": -68.1321432,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4927613733,
+  "lat": -16.4929754,
+  "lon": -68.1419620,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4927613744,
+  "lat": -16.5011333,
+  "lon": -68.1326806,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-12-23"
+  }
+},
+{
+  "type": "node",
+  "id": 4931361522,
+  "lat": -16.5026503,
+  "lon": -68.1354774,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4931374021,
+  "lat": -16.5113071,
+  "lon": -68.1436867,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4932703824,
+  "lat": -16.4944659,
+  "lon": -68.1275150,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4932703825,
+  "lat": -16.4943751,
+  "lon": -68.1273901,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4932703831,
+  "lat": -16.4953724,
+  "lon": -68.1274331,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4932703832,
+  "lat": -16.4953522,
+  "lon": -68.1275375,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4932705126,
+  "lat": -16.4944107,
+  "lon": -68.1274637,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4932705129,
+  "lat": -16.4948941,
+  "lon": -68.1275012,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4932706021,
+  "lat": -16.4954878,
+  "lon": -68.1274735,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4932706121,
+  "lat": -16.4954833,
+  "lon": -68.1275247,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 4933301921,
+  "lat": -16.5072376,
+  "lon": -68.1295109,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 4947509824,
+  "lat": -16.5236340,
+  "lon": -68.1508490,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2025-12-20",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 4986865723,
+  "lat": -16.5352632,
+  "lon": -68.1485909,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 4986873721,
+  "lat": -16.5352394,
+  "lon": -68.1488223,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 5016695323,
+  "lat": -16.5203322,
+  "lon": -68.1516633,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 5048449221,
+  "lat": -16.5048407,
+  "lon": -68.1286659,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5049837022,
+  "lat": -16.5422025,
+  "lon": -68.0659900,
+  "tags": {
+    "amenity": "waste_disposal",
+    "check_date": "2023-06-01",
+    "location": "overground",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 5049839421,
+  "lat": -16.5404395,
+  "lon": -68.0681719,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "operator": "Gobierno Autónomo Municipal de La Paz",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "no",
+    "recycling:plastic_packaging": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5049839422,
+  "lat": -16.5119633,
+  "lon": -68.1294690,
+  "tags": {
+    "amenity": "waste_disposal",
+    "location": "overground",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5051632122,
+  "lat": -16.4924926,
+  "lon": -68.1587213,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 5058259321,
+  "lat": -16.5277772,
+  "lon": -68.1064709,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5058259322,
+  "lat": -16.5286323,
+  "lon": -68.1048471,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5058262133,
+  "lat": -16.5319258,
+  "lon": -68.0993575,
+  "tags": {
+    "amenity": "waste_disposal",
+    "check_date": "2023-06-01",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5058267721,
+  "lat": -16.5450172,
+  "lon": -68.0902013,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5058269721,
+  "lat": -16.5441338,
+  "lon": -68.0864455,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5058283623,
+  "lat": -16.5447488,
+  "lon": -68.0671728,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5075237222,
+  "lat": -16.5269537,
+  "lon": -68.1084211,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5075237223,
+  "lat": -16.5453476,
+  "lon": -68.0697748,
+  "tags": {
+    "amenity": "waste_disposal",
+    "check_date": "2023-06-01",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 5075237621,
+  "lat": -16.5457986,
+  "lon": -68.0808348,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5075237821,
+  "lat": -16.5095969,
+  "lon": -68.1380331,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5075237822,
+  "lat": -16.5069388,
+  "lon": -68.1358870,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5075237921,
+  "lat": -16.5081506,
+  "lon": -68.1367623,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5075238021,
+  "lat": -16.5051334,
+  "lon": -68.1348649,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5075316322,
+  "lat": -16.5407707,
+  "lon": -68.0669833,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5075334422,
+  "lat": -16.5404680,
+  "lon": -68.0660334,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5084479921,
+  "lat": -16.5133712,
+  "lon": -68.1289840,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5089867522,
+  "lat": -16.5055732,
+  "lon": -68.1332822,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5089942721,
+  "lat": -16.5047524,
+  "lon": -68.1327750,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5098200321,
+  "lat": -16.5293386,
+  "lon": -68.1032400,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5098345024,
+  "lat": -16.5395474,
+  "lon": -68.0710145,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5098345622,
+  "lat": -16.5397727,
+  "lon": -68.0732041,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5098367424,
+  "lat": -16.5391273,
+  "lon": -68.0779293,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5098391921,
+  "lat": -16.5399882,
+  "lon": -68.0769297,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5100879921,
+  "lat": -16.5141620,
+  "lon": -68.1341260,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5102030125,
+  "lat": -16.5041107,
+  "lon": -68.1335828,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5109652528,
+  "lat": -16.4799757,
+  "lon": -68.1472803,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5113938221,
+  "lat": -16.4984071,
+  "lon": -68.1590428,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "basurero"
+  }
+},
+{
+  "type": "node",
+  "id": 5118504221,
+  "lat": -16.5107875,
+  "lon": -68.1291744,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5120599922,
+  "lat": -16.5119259,
+  "lon": -68.1288696,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5120616221,
+  "lat": -16.5149026,
+  "lon": -68.1300328,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5122813421,
+  "lat": -16.5095882,
+  "lon": -68.1300405,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5122813422,
+  "lat": -16.5081428,
+  "lon": -68.1304005,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5122845222,
+  "lat": -16.5054679,
+  "lon": -68.1298706,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5124402425,
+  "lat": -16.5303914,
+  "lon": -68.0881229,
+  "tags": {
+    "amenity": "waste_disposal",
+    "backrest": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5136138335,
+  "lat": -16.4737331,
+  "lon": -68.1195663,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5136138336,
+  "lat": -16.4767424,
+  "lon": -68.1209063,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5136138337,
+  "lat": -16.4786361,
+  "lon": -68.1204778,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5136807744,
+  "lat": -16.5185536,
+  "lon": -68.0666401,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5136807745,
+  "lat": -16.5167777,
+  "lon": -68.0657770,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5143294547,
+  "lat": -16.4757045,
+  "lon": -68.1220781,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5143430371,
+  "lat": -16.4884942,
+  "lon": -68.1428336,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5143837721,
+  "lat": -16.5228306,
+  "lon": -68.1430279,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5143838022,
+  "lat": -16.5106102,
+  "lon": -68.1411622,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5149806405,
+  "lat": -16.5042119,
+  "lon": -68.0823695,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5154226630,
+  "lat": -16.5143464,
+  "lon": -68.1288505,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5154244021,
+  "lat": -16.5107049,
+  "lon": -68.1257836,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5154277424,
+  "lat": -16.4766918,
+  "lon": -68.1208641,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5154287221,
+  "lat": -16.4795467,
+  "lon": -68.1212955,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5172923322,
+  "lat": -16.5103053,
+  "lon": -68.1369755,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5172923323,
+  "lat": -16.5088345,
+  "lon": -68.1354913,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5172947224,
+  "lat": -16.5109927,
+  "lon": -68.1382644,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5173005322,
+  "lat": -16.5043418,
+  "lon": -68.1264243,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5173156621,
+  "lat": -16.5403678,
+  "lon": -68.0697986,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5180126324,
+  "lat": -16.5036849,
+  "lon": -68.1360915,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5180159123,
+  "lat": -16.5041010,
+  "lon": -68.1356769,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5194834222,
+  "lat": -16.5161166,
+  "lon": -68.1285842,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5194850721,
+  "lat": -16.5162091,
+  "lon": -68.1297285,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5203017524,
+  "lat": -16.4930120,
+  "lon": -68.1148984,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5203153622,
+  "lat": -16.4978079,
+  "lon": -68.1259563,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5220402921,
+  "lat": -16.5217849,
+  "lon": -68.1423839,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5221614821,
+  "lat": -16.5451291,
+  "lon": -68.0738810,
+  "tags": {
+    "amenity": "waste_disposal",
+    "check_date": "2023-06-01",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 5221615021,
+  "lat": -16.5452069,
+  "lon": -68.0722511,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5221747423,
+  "lat": -16.5153393,
+  "lon": -68.1345604,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5221751422,
+  "lat": -16.5151649,
+  "lon": -68.1361668,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5222159521,
+  "lat": -16.5201750,
+  "lon": -68.1077782,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5233415221,
+  "lat": -16.5193111,
+  "lon": -68.1134437,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5233419621,
+  "lat": -16.5204377,
+  "lon": -68.1119765,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5237744621,
+  "lat": -16.5007425,
+  "lon": -68.1266689,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5237746621,
+  "lat": -16.5006270,
+  "lon": -68.1264887,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5237746721,
+  "lat": -16.5003740,
+  "lon": -68.1260774,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5256589722,
+  "lat": -16.5145723,
+  "lon": -68.1210126,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5256610121,
+  "lat": -16.5224186,
+  "lon": -68.1047675,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5268888221,
+  "lat": -16.4955594,
+  "lon": -68.1179576,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5310226862,
+  "lat": -16.5106993,
+  "lon": -68.1057753,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5310974022,
+  "lat": -16.4984093,
+  "lon": -68.1184557,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 5310974023,
+  "lat": -16.4976951,
+  "lon": -68.1192240,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5311010822,
+  "lat": -16.4965219,
+  "lon": -68.1197476,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5311015721,
+  "lat": -16.4955311,
+  "lon": -68.1204035,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5311018121,
+  "lat": -16.4943395,
+  "lon": -68.1211212,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5311018122,
+  "lat": -16.4930174,
+  "lon": -68.1213031,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5324784621,
+  "lat": -16.5601229,
+  "lon": -68.1971410,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5375657025,
+  "lat": -16.5319366,
+  "lon": -68.1518140,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 5420197646,
+  "lat": -16.4957947,
+  "lon": -68.1330552,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 5457915023,
+  "lat": -16.4955720,
+  "lon": -68.1179128,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5457915030,
+  "lat": -16.4992295,
+  "lon": -68.1184937,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5457915128,
+  "lat": -16.4994717,
+  "lon": -68.1182997,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481665823,
+  "lat": -16.4957704,
+  "lon": -68.1091004,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481665924,
+  "lat": -16.4994904,
+  "lon": -68.1164425,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481665929,
+  "lat": -16.4962471,
+  "lon": -68.1099252,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481665930,
+  "lat": -16.4965907,
+  "lon": -68.1079305,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481665931,
+  "lat": -16.4950211,
+  "lon": -68.1075542,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481665939,
+  "lat": -16.5201736,
+  "lon": -68.1079208,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481666022,
+  "lat": -16.4998019,
+  "lon": -68.1170779,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481666024,
+  "lat": -16.4950089,
+  "lon": -68.1075181,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481666222,
+  "lat": -16.4951045,
+  "lon": -68.1085944,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481666223,
+  "lat": -16.5043186,
+  "lon": -68.1283195,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481666521,
+  "lat": -16.5245721,
+  "lon": -68.0997956,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481667221,
+  "lat": -16.4998813,
+  "lon": -68.1170499,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5481667321,
+  "lat": -16.4996014,
+  "lon": -68.1163709,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5483534122,
+  "lat": -16.5161484,
+  "lon": -68.1186381,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "EMAVERDE"
+  }
+},
+{
+  "type": "node",
+  "id": 5483541822,
+  "lat": -16.5161876,
+  "lon": -68.1191055,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5483704921,
+  "lat": -16.5118191,
+  "lon": -68.1423575,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5483712733,
+  "lat": -16.5021392,
+  "lon": -68.1289313,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5483713122,
+  "lat": -16.5021759,
+  "lon": -68.1264831,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5483713221,
+  "lat": -16.5023163,
+  "lon": -68.1253152,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5489380023,
+  "lat": -16.5035159,
+  "lon": -68.1285733,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5489661521,
+  "lat": -16.5028527,
+  "lon": -68.1288026,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5497694524,
+  "lat": -16.5202718,
+  "lon": -68.1046497,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5497694725,
+  "lat": -16.5090940,
+  "lon": -68.1142161,
+  "tags": {
+    "amenity": "recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 5497694726,
+  "lat": -16.5006442,
+  "lon": -68.1186694,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5502216024,
+  "lat": -16.5387163,
+  "lon": -68.0888729,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5503776723,
+  "lat": -16.5028992,
+  "lon": -68.1514168,
+  "tags": {
+    "amenity": "recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 5615370621,
+  "lat": -16.5416769,
+  "lon": -68.0655132,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Maribel Chambi"
+  }
+},
+{
+  "type": "node",
+  "id": 5625572322,
+  "lat": -16.5388253,
+  "lon": -68.0831973,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 5625582621,
+  "lat": -16.5382056,
+  "lon": -68.0814782,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5631126834,
+  "lat": -16.5214737,
+  "lon": -68.1093849,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5635736021,
+  "lat": -16.4839686,
+  "lon": -68.1211848,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 5635736524,
+  "lat": -16.5103107,
+  "lon": -68.1432265,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 5646732009,
+  "lat": -16.4712777,
+  "lon": -68.1209693,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5646732018,
+  "lat": -16.4734789,
+  "lon": -68.1228647,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5646732228,
+  "lat": -16.4744604,
+  "lon": -68.1215919,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5646732236,
+  "lat": -16.4719606,
+  "lon": -68.1223617,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5646732249,
+  "lat": -16.4727652,
+  "lon": -68.1237353,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5646779389,
+  "lat": -16.4719656,
+  "lon": -68.1235397,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Marecvol",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5650165927,
+  "lat": -16.5394584,
+  "lon": -68.0778582,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5650176621,
+  "lat": -16.5391678,
+  "lon": -68.0776539,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5664175122,
+  "lat": -16.5073410,
+  "lon": -68.0939044,
+  "tags": {
+    "amenity": "waste_disposal",
+    "collection_times": "lunes sabado jueves"
+  }
+},
+{
+  "type": "node",
+  "id": 5666742922,
+  "lat": -16.4873774,
+  "lon": -68.1521085,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5666749921,
+  "lat": -16.4882033,
+  "lon": -68.1522429,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 5678382145,
+  "lat": -16.4845481,
+  "lon": -68.1198196,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5678391126,
+  "lat": -16.4834848,
+  "lon": -68.1189362,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5678391127,
+  "lat": -16.4827277,
+  "lon": -68.1185392,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5745852029,
+  "lat": -16.5201452,
+  "lon": -68.1090634,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5745852226,
+  "lat": -16.5201936,
+  "lon": -68.1066243,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 5882582085,
+  "lat": -16.5237418,
+  "lon": -68.1510896,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 5967820539,
+  "lat": -16.5633972,
+  "lon": -68.2214447,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5967820541,
+  "lat": -16.5633112,
+  "lon": -68.2215095,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5967820542,
+  "lat": -16.5638612,
+  "lon": -68.2213354,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Punto de Reciclaje 6",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5967820543,
+  "lat": -16.5635743,
+  "lon": -68.2212512,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Punto de Reciclaje 5",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5967820544,
+  "lat": -16.5639908,
+  "lon": -68.2213161,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5967820545,
+  "lat": -16.5637025,
+  "lon": -68.2217438,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5967820546,
+  "lat": -16.5634050,
+  "lon": -68.2216188,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 5967820547,
+  "lat": -16.5638269,
+  "lon": -68.2210953,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6073692489,
+  "lat": -16.5077344,
+  "lon": -68.1213616,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6073714285,
+  "lat": -16.5057743,
+  "lon": -68.1211181,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6073714286,
+  "lat": -16.5042258,
+  "lon": -68.1206587,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 6093975727,
+  "lat": -16.4976819,
+  "lon": -68.1156016,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 6146423887,
+  "lat": -16.5154744,
+  "lon": -68.1257090,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6178361685,
+  "lat": -16.4933647,
+  "lon": -68.1136406,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 6178361785,
+  "lat": -16.4930561,
+  "lon": -68.1148626,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 6199735785,
+  "lat": -16.5413365,
+  "lon": -68.0833479,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 6238641886,
+  "lat": -16.4952801,
+  "lon": -68.1479010,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6238664485,
+  "lat": -16.4944984,
+  "lon": -68.1482868,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6238723285,
+  "lat": -16.4980892,
+  "lon": -68.1427447,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6238723585,
+  "lat": -16.4976211,
+  "lon": -68.1419321,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6238747286,
+  "lat": -16.4978522,
+  "lon": -68.1391718,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6238761585,
+  "lat": -16.4983959,
+  "lon": -68.1369527,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 6238767085,
+  "lat": -16.4997610,
+  "lon": -68.1360945,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 6238776386,
+  "lat": -16.5166161,
+  "lon": -68.1437426,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6238788785,
+  "lat": -16.5116700,
+  "lon": -68.1413045,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6238791185,
+  "lat": -16.5154980,
+  "lon": -68.1437452,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6324588380,
+  "lat": -16.4975845,
+  "lon": -68.1192633,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Gobierno Autónomo Municipal de La Paz",
+    "recycling:paper_packaging": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 6346410619,
+  "lat": -16.5415731,
+  "lon": -68.0957872,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 6525030189,
+  "lat": -16.5263901,
+  "lon": -68.1521266,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6635494453,
+  "lat": -16.5245061,
+  "lon": -68.1513062,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6635494454,
+  "lat": -16.5245346,
+  "lon": -68.1515180,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6635494455,
+  "lat": -16.5241587,
+  "lon": -68.1514275,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6635494456,
+  "lat": -16.5239792,
+  "lon": -68.1513504,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6635494457,
+  "lat": -16.5239978,
+  "lon": -68.1511667,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6635494458,
+  "lat": -16.5242544,
+  "lon": -68.1511181,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6653799294,
+  "lat": -16.5263086,
+  "lon": -68.1518399,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6685117802,
+  "lat": -16.5295428,
+  "lon": -68.1550931,
+  "tags": {
+    "amenity": "waste_disposal",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6700730449,
+  "lat": -16.5226177,
+  "lon": -68.1506327,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6733054185,
+  "lat": -16.4879338,
+  "lon": -68.1231238,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 6753809015,
+  "lat": -16.5234042,
+  "lon": -68.1507856,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6793980334,
+  "lat": -16.5266333,
+  "lon": -68.1515128,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 6852638674,
+  "lat": -16.4915050,
+  "lon": -68.1633930,
+  "tags": {
+    "amenity": "waste_disposal",
+    "unisex": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6859018454,
+  "lat": -16.5212116,
+  "lon": -68.1241467,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7100679118,
+  "lat": -16.5229169,
+  "lon": -68.1581654,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7100679119,
+  "lat": -16.5235405,
+  "lon": -68.1583816,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7100679179,
+  "lat": -16.5224221,
+  "lon": -68.1580773,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7100679180,
+  "lat": -16.5223612,
+  "lon": -68.1579111,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7100679186,
+  "lat": -16.5220222,
+  "lon": -68.1577839,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7100679250,
+  "lat": -16.5216177,
+  "lon": -68.1575865,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7100679279,
+  "lat": -16.5209128,
+  "lon": -68.1572962,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7100679506,
+  "lat": -16.5207148,
+  "lon": -68.1572057,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7313104285,
+  "lat": -16.5180334,
+  "lon": -68.1504813,
+  "tags": {
+    "amenity": "waste_disposal",
+    "level": "0",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 7366751310,
+  "lat": -16.4883922,
+  "lon": -68.1598252,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367068790,
+  "lat": -16.4896629,
+  "lon": -68.1596407,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367130262,
+  "lat": -16.4890921,
+  "lon": -68.1621200,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367136872,
+  "lat": -16.4895150,
+  "lon": -68.1573255,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367136875,
+  "lat": -16.4895401,
+  "lon": -68.1584670,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367198051,
+  "lat": -16.4879651,
+  "lon": -68.1576158,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367371100,
+  "lat": -16.4911408,
+  "lon": -68.1591890,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367447297,
+  "lat": -16.4909018,
+  "lon": -68.1559844,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367513946,
+  "lat": -16.4901398,
+  "lon": -68.1565949,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367513959,
+  "lat": -16.4899685,
+  "lon": -68.1554672,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367513968,
+  "lat": -16.4896523,
+  "lon": -68.1561296,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367513974,
+  "lat": -16.4891294,
+  "lon": -68.1549311,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367552139,
+  "lat": -16.4882282,
+  "lon": -68.1562006,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367552140,
+  "lat": -16.4882105,
+  "lon": -68.1561605,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367552166,
+  "lat": -16.4860641,
+  "lon": -68.1555040,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367552167,
+  "lat": -16.4860149,
+  "lon": -68.1555414,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367560442,
+  "lat": -16.4869621,
+  "lon": -68.1590443,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367560443,
+  "lat": -16.4863520,
+  "lon": -68.1587007,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367560446,
+  "lat": -16.4858734,
+  "lon": -68.1583079,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367589647,
+  "lat": -16.4873670,
+  "lon": -68.1643408,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7367620800,
+  "lat": -16.4885163,
+  "lon": -68.1639183,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7524628454,
+  "lat": -16.5294346,
+  "lon": -68.1551959,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7926421710,
+  "lat": -16.5261342,
+  "lon": -68.1522690,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 7965082248,
+  "lat": -16.5258900,
+  "lon": -68.1467556,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 8040124009,
+  "lat": -16.5239848,
+  "lon": -68.1512275,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 8040124010,
+  "lat": -16.5241428,
+  "lon": -68.1507446,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 8069940296,
+  "lat": -16.4962454,
+  "lon": -68.1521050,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "yellow",
+    "material": "metal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 8069940298,
+  "lat": -16.4956884,
+  "lon": -68.1514248,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal",
+    "operator": "Gobierno Autónomo Municipal de La Paz",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 8069940304,
+  "lat": -16.4956679,
+  "lon": -68.1517290,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "yellow",
+    "material": "metal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 8069940327,
+  "lat": -16.4960274,
+  "lon": -68.1513933,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal",
+    "operator": "Gobierno Autónomo Municipal de La Paz",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 8071037631,
+  "lat": -16.4970330,
+  "lon": -68.1522964,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal",
+    "operator": "Gobierno Autónomo Municipal de La Paz",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 8071037632,
+  "lat": -16.4972600,
+  "lon": -68.1523116,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal",
+    "operator": "Gobierno Autónomo Municipal de La Paz",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467322,
+  "lat": -16.5007572,
+  "lon": -68.1334699,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467323,
+  "lat": -16.5007008,
+  "lon": -68.1335426,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467332,
+  "lat": -16.5009571,
+  "lon": -68.1332599,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467333,
+  "lat": -16.5010482,
+  "lon": -68.1331494,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467398,
+  "lat": -16.5014227,
+  "lon": -68.1329520,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467413,
+  "lat": -16.5015768,
+  "lon": -68.1327351,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467506,
+  "lat": -16.5020642,
+  "lon": -68.1324968,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467507,
+  "lat": -16.5020248,
+  "lon": -68.1324264,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467510,
+  "lat": -16.5019406,
+  "lon": -68.1325839,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8218467511,
+  "lat": -16.5019013,
+  "lon": -68.1325135,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8258245266,
+  "lat": -16.5444497,
+  "lon": -68.0920551,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8258245267,
+  "lat": -16.5444055,
+  "lon": -68.0921257,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8258245290,
+  "lat": -16.5443353,
+  "lon": -68.0919765,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "metal"
+  }
+},
+{
+  "type": "node",
+  "id": 8294548309,
+  "lat": -16.5243371,
+  "lon": -68.1507764,
+  "tags": {
+    "amenity": "waste_basket",
+    "description": "No funciona.",
+    "material": "metal",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 8327479223,
+  "lat": -16.4884443,
+  "lon": -68.1040131,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 8327479224,
+  "lat": -16.4883266,
+  "lon": -68.1046242,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 8648142958,
+  "lat": -16.5287973,
+  "lon": -68.1006656,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "LPL - La Paz Limpia"
+  }
+},
+{
+  "type": "node",
+  "id": 8648142959,
+  "lat": -16.5270850,
+  "lon": -68.1017029,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "LPL - La Paz Limpia"
+  }
+},
+{
+  "type": "node",
+  "id": 8722339867,
+  "lat": -16.5265471,
+  "lon": -68.0689997,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "steel",
+    "operator": "EMAVERDE"
+  }
+},
+{
+  "type": "node",
+  "id": 8902469850,
+  "lat": -16.4709369,
+  "lon": -68.1204818,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "waste": "solid_waste;trash;mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 9538741818,
+  "lat": -16.4935489,
+  "lon": -68.1316909,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 9538741819,
+  "lat": -16.4940777,
+  "lon": -68.1308176,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "La Paz Limpia",
+    "waste": "trash;organic"
+  }
+},
+{
+  "type": "node",
+  "id": 9538741820,
+  "lat": -16.4944892,
+  "lon": -68.1311954,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "La Paz Limpia",
+    "waste": "trash;organic"
+  }
+},
+{
+  "type": "node",
+  "id": 9570171366,
+  "lat": -16.5192201,
+  "lon": -68.1759666,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "plastic",
+    "operator": "Gobierno Autónomo Municipal de El Alto",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 9570171367,
+  "lat": -16.5201896,
+  "lon": -68.1768624,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "plastic",
+    "operator": "Gobierno Autónomo Municipal de El Alto",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 9570177963,
+  "lat": -16.5205239,
+  "lon": -68.1769134,
+  "tags": {
+    "amenity": "recycling",
+    "colour": "#729fcf",
+    "indoor": "yes",
+    "level": "0",
+    "material": "metal",
+    "recycling:plastic_bottles": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 9570213723,
+  "lat": -16.5193359,
+  "lon": -68.1760739,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "plastic",
+    "operator": "Gobierno Autónomo Municipal de El Alto",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 9570213725,
+  "lat": -16.5195030,
+  "lon": -68.1759720,
+  "tags": {
+    "amenity": "recycling",
+    "colour": "#729fcf",
+    "indoor": "yes",
+    "level": "0",
+    "material": "metal",
+    "recycling:plastic_bottles": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 9572957857,
+  "lat": -16.4931398,
+  "lon": -68.1302115,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 9572957858,
+  "lat": -16.4928325,
+  "lon": -68.1307342,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 9697656517,
+  "lat": -16.5191736,
+  "lon": -68.0886936,
+  "tags": {
+    "addr:street": "Calle 11B",
+    "amenity": "recycling",
+    "name": "Centro de acopio ReciclAndantes",
+    "name:en": "Recycling Center ReciclAndantes",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "recycling_type": "centre",
+    "website": "http://www.reciclandantes.wordpress.com"
+  }
+},
+{
+  "type": "node",
+  "id": 10134273817,
+  "lat": -16.5395817,
+  "lon": -68.0671352,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 10134285717,
+  "lat": -16.5394298,
+  "lon": -68.0682828,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 10134289917,
+  "lat": -16.5391538,
+  "lon": -68.0684042,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10134294017,
+  "lat": -16.5390997,
+  "lon": -68.0684855,
+  "tags": {
+    "amenity": "waste_basket",
+    "recycling:cans": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 10134300617,
+  "lat": -16.5378964,
+  "lon": -68.0690389,
+  "tags": {
+    "amenity": "waste_basket",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 10134305617,
+  "lat": -16.5383470,
+  "lon": -68.0676817,
+  "tags": {
+    "amenity": "waste_basket",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 10134314017,
+  "lat": -16.5384063,
+  "lon": -68.0690999,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10162716217,
+  "lat": -16.5392109,
+  "lon": -68.0692468,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10178144357,
+  "lat": -16.5391490,
+  "lon": -68.0674646,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-27",
+    "informal": "yes",
+    "material": "metal",
+    "note": "Colapsado desordenado",
+    "operator": "YouthMappersUMSA",
+    "source": "StreetComplete",
+    "waste": "trash;organic;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 10178144371,
+  "lat": -16.5386471,
+  "lon": -68.0659033,
+  "tags": {
+    "amenity": "waste_basket",
+    "faculty": "Humanidades y Ciencias de la Educación",
+    "image": "https://www.mapillary.com/app/?lat=-16.538788699998&lng=-68.065886099999&z=17&dateFrom=2022-11-01&pKey=129122466411822&focus=photo",
+    "panoramax:0": "bf73887c-5272-4c61-9420-d029d12690b5",
+    "recycling:beverage_cartons": "yes",
+    "recycling:cans": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:waste": "yes",
+    "recycling_type": "container",
+    "university": "Universidad Mayor de San Andrés-UMSA",
+    "waste": "trash;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 10178144372,
+  "lat": -16.5384716,
+  "lon": -68.0659043,
+  "tags": {
+    "amenity": "waste_basket",
+    "faculty": "Humanidades y Ciencias de la Educación",
+    "image": "https://www.mapillary.com/app/?lat=-16.538484900003&lng=-68.065873800002&z=19.713496063643255&dateFrom=2022-11-01&pKey=114734167954816&focus=photo",
+    "material": "metal",
+    "recycling:beverage_cartons": "no",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "no",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "no",
+    "recycling_type": "container",
+    "university": "Universidad Mayor de San Andrés-UMSA"
+  }
+},
+{
+  "type": "node",
+  "id": 10240016509,
+  "lat": -16.5067356,
+  "lon": -68.1377638,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10291443436,
+  "lat": -16.4973925,
+  "lon": -68.1212931,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10291443500,
+  "lat": -16.4943688,
+  "lon": -68.1215775,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10295106427,
+  "lat": -16.4896608,
+  "lon": -68.1216986,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10646907285,
+  "lat": -16.4812925,
+  "lon": -68.1465519,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "waste": "trash;mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10646998297,
+  "lat": -16.4831378,
+  "lon": -68.1457920,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "waste": "trash;mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10647012064,
+  "lat": -16.4844591,
+  "lon": -68.1452835,
+  "tags": {
+    "amenity": "waste_basket",
+    "material": "metal",
+    "waste": "trash;mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10647039431,
+  "lat": -16.4864250,
+  "lon": -68.1414790,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "waste": "trash;mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10647100200,
+  "lat": -16.4875016,
+  "lon": -68.1406410,
+  "tags": {
+    "amenity": "recycling",
+    "colour": "azure",
+    "covered": "no",
+    "indoor": "no",
+    "material": "metal",
+    "recycling:cardboard": "yes",
+    "recycling:cartons": "yes",
+    "recycling:magazines": "yes",
+    "recycling:newspaper": "yes",
+    "recycling:paper": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 10647110635,
+  "lat": -16.4875270,
+  "lon": -68.1406136,
+  "tags": {
+    "amenity": "recycling",
+    "colour": "amarillo",
+    "covered": "no",
+    "indoor": "no",
+    "material": "metal",
+    "recycling:PET": "yes",
+    "recycling:cans": "yes",
+    "recycling:plastic_bags": "yes",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "yes",
+    "recycling:tetrapak": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 10647126722,
+  "lat": -16.4874707,
+  "lon": -68.1406712,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "material": "metal",
+    "waste": "trash;mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10679284572,
+  "lat": -16.4879599,
+  "lon": -68.0932462,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "material": "metal",
+    "source": "survey",
+    "waste": "mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10717550871,
+  "lat": -16.5390356,
+  "lon": -68.0659176,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-27",
+    "informal": "yes",
+    "material": "plastic",
+    "operator": "YouthMappersUMSA",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container",
+    "source": "StreetComplete",
+    "waste": "trash;organic;plastic;metal;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 10718051295,
+  "lat": -16.5391403,
+  "lon": -68.0660786,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-27",
+    "informal": "yes",
+    "operator": "YouthMappersUMSA",
+    "source": "StreetComplete",
+    "waste": "trash;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 10762073542,
+  "lat": -16.5388437,
+  "lon": -68.0658560,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-27",
+    "informal": "yes",
+    "material": "plastic",
+    "operator": "YouthMappersUMSA",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container",
+    "source": "StreetComplete",
+    "waste": "trash;plastic;metal;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 10799955105,
+  "lat": -16.5307459,
+  "lon": -68.1394715,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 10847494559,
+  "lat": -16.5395468,
+  "lon": -68.0709814,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 10847815227,
+  "lat": -16.5388948,
+  "lon": -68.0690365,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 10865234854,
+  "lat": -16.5394334,
+  "lon": -68.0683653,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-27",
+    "informal": "yes",
+    "material": "soil",
+    "note": "Basurero orgánico",
+    "operator": "YouthMappersUMSA",
+    "source": "StreetComplete",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10885483087,
+  "lat": -16.4947423,
+  "lon": -68.1313253,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "dog_excrement"
+  }
+},
+{
+  "type": "node",
+  "id": 10885483088,
+  "lat": -16.4944682,
+  "lon": -68.1311994,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "La Paz Limpia",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 10940368380,
+  "lat": -16.4983786,
+  "lon": -68.0837711,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 10940368382,
+  "lat": -16.5035079,
+  "lon": -68.0821832,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 10940406748,
+  "lat": -16.5128504,
+  "lon": -68.0861556,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:plastic_bottles": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 10940406749,
+  "lat": -16.5112331,
+  "lon": -68.0861574,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 10940406750,
+  "lat": -16.5112210,
+  "lon": -68.0861770,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 10940406752,
+  "lat": -16.5109143,
+  "lon": -68.0858444,
+  "tags": {
+    "amenity": "recycling",
+    "recycling:plastic_bottles": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 10947443956,
+  "lat": -16.4978008,
+  "lon": -68.0829292,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 10972348967,
+  "lat": -16.5395739,
+  "lon": -68.0692157,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 10972353205,
+  "lat": -16.5407175,
+  "lon": -68.0816579,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 10972353206,
+  "lat": -16.5398838,
+  "lon": -68.0828483,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11009380603,
+  "lat": -16.5386718,
+  "lon": -68.0692790,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-06-23",
+    "informal": "yes",
+    "material": "metal",
+    "operator": "YouthMappersUMSA",
+    "waste": "trash;organic;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 11059802442,
+  "lat": -16.5372217,
+  "lon": -68.0655061,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-27",
+    "informal": "yes",
+    "material": "metal",
+    "note": "Colapsado desordenado",
+    "operator": "YouthMappersUMSA",
+    "source": "StreetComplete",
+    "waste": "trash;organic;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 11115329480,
+  "lat": -16.5394674,
+  "lon": -68.0650443,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11125425235,
+  "lat": -16.4690381,
+  "lon": -68.1134487,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11126367978,
+  "lat": -16.4884678,
+  "lon": -68.1430528,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11137480873,
+  "lat": -16.4946976,
+  "lon": -68.1213167,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11137480883,
+  "lat": -16.4943596,
+  "lon": -68.1211088,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11137480884,
+  "lat": -16.4943807,
+  "lon": -68.1211004,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11137493938,
+  "lat": -16.4932232,
+  "lon": -68.1212783,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11137493939,
+  "lat": -16.4932446,
+  "lon": -68.1212781,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11139878476,
+  "lat": -16.5012905,
+  "lon": -68.1211037,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11139878477,
+  "lat": -16.5013111,
+  "lon": -68.1211016,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11140127821,
+  "lat": -16.5410979,
+  "lon": -68.0904118,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11140127822,
+  "lat": -16.5411173,
+  "lon": -68.0904071,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11146710104,
+  "lat": -16.5128309,
+  "lon": -68.1406952,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11151685688,
+  "lat": -16.5385788,
+  "lon": -68.0657760,
+  "tags": {
+    "amenity": "waste_basket",
+    "faculty": "Humanidades y Ciencias de la Educación",
+    "material": "plastic",
+    "recycling:beverage_cartons": "no",
+    "recycling:glass_bottles": "yes",
+    "recycling:green_waste": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "no",
+    "recycling:plastic_bottles": "yes",
+    "recycling:plastic_packaging": "no",
+    "recycling_type": "container",
+    "university": "Universidad Mayor de San Andrés-UMSA"
+  }
+},
+{
+  "type": "node",
+  "id": 11169755837,
+  "lat": -16.5394599,
+  "lon": -68.0681020,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11177972967,
+  "lat": -16.5064241,
+  "lon": -68.1264492,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11196664090,
+  "lat": -16.4738470,
+  "lon": -68.1174897,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11196664091,
+  "lat": -16.4740525,
+  "lon": -68.1176130,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11197779621,
+  "lat": -16.4872369,
+  "lon": -68.1216809,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11200090201,
+  "lat": -16.4993474,
+  "lon": -68.1209302,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11200090202,
+  "lat": -16.4993474,
+  "lon": -68.1209053,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11234600676,
+  "lat": -16.4886869,
+  "lon": -68.1420893,
+  "tags": {
+    "amenity": "waste_basket",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11271851363,
+  "lat": -16.5081664,
+  "lon": -68.1286112,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11276301052,
+  "lat": -16.5450929,
+  "lon": -68.0903085,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11277499972,
+  "lat": -16.5439777,
+  "lon": -68.0875353,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11277500049,
+  "lat": -16.5451517,
+  "lon": -68.0879310,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11288990338,
+  "lat": -16.5466710,
+  "lon": -68.0766527,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11289061966,
+  "lat": -16.5456855,
+  "lon": -68.0773133,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11295547060,
+  "lat": -16.5400655,
+  "lon": -68.0780081,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11295547061,
+  "lat": -16.5400655,
+  "lon": -68.0779856,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11295547066,
+  "lat": -16.5405589,
+  "lon": -68.0794415,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11295566680,
+  "lat": -16.5402032,
+  "lon": -68.0797125,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11296380660,
+  "lat": -16.5443240,
+  "lon": -68.0828000,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11328374909,
+  "lat": -16.5166558,
+  "lon": -68.1210139,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11328374910,
+  "lat": -16.5166500,
+  "lon": -68.1209753,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11328374911,
+  "lat": -16.5166467,
+  "lon": -68.1209433,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11336618680,
+  "lat": -16.5413221,
+  "lon": -68.0833054,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11336618706,
+  "lat": -16.5398517,
+  "lon": -68.0830080,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11339347535,
+  "lat": -16.4953879,
+  "lon": -68.1000558,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11359446434,
+  "lat": -16.4971352,
+  "lon": -68.1009868,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11395030848,
+  "lat": -16.4989169,
+  "lon": -68.1011043,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11395030855,
+  "lat": -16.4969703,
+  "lon": -68.1019814,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11454976765,
+  "lat": -16.5162613,
+  "lon": -68.0887979,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "La Paz Limpia"
+  }
+},
+{
+  "type": "node",
+  "id": 11726412080,
+  "lat": -16.5023245,
+  "lon": -68.0825439,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11736898105,
+  "lat": -16.5472081,
+  "lon": -68.0750026,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11736898110,
+  "lat": -16.5465904,
+  "lon": -68.0754325,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11740214081,
+  "lat": -16.5213369,
+  "lon": -68.0851307,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11740333869,
+  "lat": -16.5205080,
+  "lon": -68.0877982,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11740339375,
+  "lat": -16.5386798,
+  "lon": -68.0788630,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11740339376,
+  "lat": -16.5386983,
+  "lon": -68.0788682,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11770359033,
+  "lat": -16.5064510,
+  "lon": -68.0856149,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11770373125,
+  "lat": -16.5071716,
+  "lon": -68.0858304,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11772775086,
+  "lat": -16.5130043,
+  "lon": -68.0873239,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11772775094,
+  "lat": -16.5127632,
+  "lon": -68.0861718,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11772775114,
+  "lat": -16.5128485,
+  "lon": -68.0867320,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11772775142,
+  "lat": -16.5140512,
+  "lon": -68.0875262,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11774168327,
+  "lat": -16.5120241,
+  "lon": -68.0856589,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11774224068,
+  "lat": -16.5084590,
+  "lon": -68.0854046,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11774234174,
+  "lat": -16.5098520,
+  "lon": -68.0854157,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11774243879,
+  "lat": -16.5094350,
+  "lon": -68.0860346,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11774460256,
+  "lat": -16.5099614,
+  "lon": -68.0858589,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11777106496,
+  "lat": -16.5435128,
+  "lon": -68.0769403,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11777106500,
+  "lat": -16.5443713,
+  "lon": -68.0764695,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11784477364,
+  "lat": -16.5390702,
+  "lon": -68.0900857,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11786663806,
+  "lat": -16.5224000,
+  "lon": -68.0852052,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11798820764,
+  "lat": -16.5278062,
+  "lon": -68.0848670,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11798820765,
+  "lat": -16.5278325,
+  "lon": -68.0848637,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GALMP"
+  }
+},
+{
+  "type": "node",
+  "id": 11800635993,
+  "lat": -16.5172111,
+  "lon": -68.0876566,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11800636005,
+  "lat": -16.5176166,
+  "lon": -68.0869225,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11800636019,
+  "lat": -16.5172673,
+  "lon": -68.0861064,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11800636020,
+  "lat": -16.5172892,
+  "lon": -68.0861018,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11800636026,
+  "lat": -16.5166575,
+  "lon": -68.0868934,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11800636050,
+  "lat": -16.5151380,
+  "lon": -68.0868049,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11800636051,
+  "lat": -16.5154801,
+  "lon": -68.0875835,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11808828666,
+  "lat": -16.5015304,
+  "lon": -68.0835021,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11808831184,
+  "lat": -16.5388250,
+  "lon": -68.0822806,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11808848590,
+  "lat": -16.5019397,
+  "lon": -68.0817499,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11810449689,
+  "lat": -16.5292445,
+  "lon": -68.0867591,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11810458302,
+  "lat": -16.5294736,
+  "lon": -68.0873312,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "operator": "LA PAZ LIMPIA",
+    "waste": "plastic;organic"
+  }
+},
+{
+  "type": "node",
+  "id": 11810477718,
+  "lat": -16.5291383,
+  "lon": -68.0854653,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11810477719,
+  "lat": -16.5291606,
+  "lon": -68.0854630,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 11847793299,
+  "lat": -16.5385179,
+  "lon": -68.0869541,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11847793300,
+  "lat": -16.5385155,
+  "lon": -68.0869313,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11873082175,
+  "lat": -16.5389638,
+  "lon": -68.0664478,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Punto de Reciclaje",
+    "operator": "Facultad de Ciencias Puras y Naturales",
+    "recycling:plastic": "yes",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 11938201200,
+  "lat": -16.5384579,
+  "lon": -68.0669027,
+  "tags": {
+    "amenity": "recycling",
+    "informal": "no",
+    "location": "overground",
+    "recycling:cans": "yes",
+    "recycling:food_waste": "yes",
+    "recycling:glass_bottles": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes",
+    "recycling_type": "container",
+    "start_date": "2024-02-28",
+    "university": "Universidad Mayor de San Andrés-UMSA"
+  }
+},
+{
+  "type": "node",
+  "id": 11951898265,
+  "lat": -16.5241441,
+  "lon": -68.1576768,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/kT0xZlJ",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11951906763,
+  "lat": -16.5252765,
+  "lon": -68.1544396,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/ErUIRFi",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202479,
+  "lat": -16.5262931,
+  "lon": -68.1523330,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202480,
+  "lat": -16.5263654,
+  "lon": -68.1514136,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/NiVL3kA",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202481,
+  "lat": -16.5276445,
+  "lon": -68.1489478,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/OsTi0Hc",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202482,
+  "lat": -16.5276386,
+  "lon": -68.1489633,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/OsTi0Hc",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202483,
+  "lat": -16.5281728,
+  "lon": -68.1474537,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/ubX0oTF",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202484,
+  "lat": -16.5251322,
+  "lon": -68.1478670,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/QvTxne2",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202485,
+  "lat": -16.5247106,
+  "lon": -68.1487916,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/0iLLT1a",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202486,
+  "lat": -16.5241706,
+  "lon": -68.1501497,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/aJw0WVa",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202487,
+  "lat": -16.5236235,
+  "lon": -68.1515419,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/LQY9azI",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202488,
+  "lat": -16.5230321,
+  "lon": -68.1534406,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202489,
+  "lat": -16.5211009,
+  "lon": -68.1573951,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/b8nQPAD",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202490,
+  "lat": -16.5210722,
+  "lon": -68.1574528,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/b8nQPAD",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202491,
+  "lat": -16.5210618,
+  "lon": -68.1574831,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/b8nQPAD",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202492,
+  "lat": -16.5222139,
+  "lon": -68.1581004,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/YNMNWZh",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11952202493,
+  "lat": -16.5236322,
+  "lon": -68.1584454,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/r1k0saO",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11967918863,
+  "lat": -16.5226145,
+  "lon": -68.1483055,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/AfSodgi",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11967918864,
+  "lat": -16.5216520,
+  "lon": -68.1488200,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/RvkWDUf",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11967918865,
+  "lat": -16.5205736,
+  "lon": -68.1497306,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "image": "https://imgur.com/TkzUiFJ",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11967918866,
+  "lat": -16.5191053,
+  "lon": -68.1516296,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "collection_times": "24/7",
+    "colour": "#e0eaec",
+    "material": "metal",
+    "operator": "GAMEA",
+    "start_date": "2024-05-27",
+    "waste": "trash;plastic;glass;paper;dog_excrement;organic;litter"
+  }
+},
+{
+  "type": "node",
+  "id": 11985545975,
+  "lat": -16.5034026,
+  "lon": -68.1229679,
+  "tags": {
+    "amenity": "waste_disposal",
+    "image": "https://imgur.com/uQllhkB",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11985545983,
+  "lat": -16.5028168,
+  "lon": -68.1238644,
+  "tags": {
+    "amenity": "waste_disposal",
+    "image": "https://imgur.com/RNyq0C9",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 11986220014,
+  "lat": -16.5382318,
+  "lon": -68.0663229,
+  "tags": {
+    "amenity": "waste_disposal",
+    "image": "https://imgur.com/d3xM3cz",
+    "level": "1",
+    "operator": "Instituto de Investigaciones Químicas - IIQ"
+  }
+},
+{
+  "type": "node",
+  "id": 12018328200,
+  "lat": -16.5115723,
+  "lon": -68.1238798,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 12022973711,
+  "lat": -16.5163520,
+  "lon": -68.1778778,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMEA"
+  }
+},
+{
+  "type": "node",
+  "id": 12026782228,
+  "lat": -16.4969613,
+  "lon": -68.1260163,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 12092566184,
+  "lat": -16.5388589,
+  "lon": -68.0709591,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2023-02-27",
+    "informal": "yes",
+    "material": "metal",
+    "note": "Colapsado desordenado",
+    "operator": "YouthMappersUMSA",
+    "source": "StreetComplete",
+    "waste": "trash;organic;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 12155942969,
+  "lat": -16.5394621,
+  "lon": -68.0682072,
+  "tags": {
+    "amenity": "waste_basket",
+    "informal": "no",
+    "material": "metal",
+    "waste": "trash;organic;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 12155942975,
+  "lat": -16.5388876,
+  "lon": -68.0682008,
+  "tags": {
+    "amenity": "waste_basket",
+    "informal": "no",
+    "material": "metal",
+    "waste": "trash;organic;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 12155942981,
+  "lat": -16.5385141,
+  "lon": -68.0680636,
+  "tags": {
+    "amenity": "waste_basket",
+    "informal": "no",
+    "material": "metal",
+    "waste": "trash;organic;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 12155942982,
+  "lat": -16.5385023,
+  "lon": -68.0677878,
+  "tags": {
+    "amenity": "waste_basket",
+    "informal": "no",
+    "material": "metal",
+    "waste": "trash;organic;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 12155942983,
+  "lat": -16.5385177,
+  "lon": -68.0674127,
+  "tags": {
+    "amenity": "waste_basket",
+    "informal": "no",
+    "material": "metal",
+    "waste": "trash;organic;plastic;paper"
+  }
+},
+{
+  "type": "node",
+  "id": 12236631001,
+  "lat": -16.4845011,
+  "lon": -68.0952660,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 12236631002,
+  "lat": -16.4857645,
+  "lon": -68.0947002,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 12293973419,
+  "lat": -16.4794395,
+  "lon": -68.1483900,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 12293973432,
+  "lat": -16.4802970,
+  "lon": -68.1475414,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "Gobierno Autónomo Municipal de La Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 12505432279,
+  "lat": -16.5179823,
+  "lon": -68.0877140,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 12505432282,
+  "lat": -16.5166974,
+  "lon": -68.0868976,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 12741610001,
+  "lat": -16.5382155,
+  "lon": -68.1391244,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sistema de Regulación Municipal (Siremu)",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 13019864783,
+  "lat": -16.5377066,
+  "lon": -68.0801162,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13019864784,
+  "lat": -16.5377165,
+  "lon": -68.0801364,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13027613485,
+  "lat": -16.5421024,
+  "lon": -68.0912764,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13059834263,
+  "lat": -16.4999305,
+  "lon": -68.1174534,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "material": "metal",
+    "operator": "Gobierno Autónomo Municipal de La Paz",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13059834264,
+  "lat": -16.5012479,
+  "lon": -68.1173628,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal",
+    "material": "metal",
+    "operator": "Gobierno Autónomo Municipal de La Paz",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13359480461,
+  "lat": -16.5393785,
+  "lon": -68.0909827,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 13360890650,
+  "lat": -16.4682174,
+  "lon": -68.1240109,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 13360890651,
+  "lat": -16.4690692,
+  "lon": -68.1214590,
+  "tags": {
+    "access": "yes",
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 13393379658,
+  "lat": -16.5001189,
+  "lon": -68.1580567,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 13599852109,
+  "lat": -16.4884801,
+  "lon": -68.0972990,
+  "tags": {
+    "amenity": "waste_disposal",
+    "check_date": "2023-06-01",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13599852117,
+  "lat": -16.4889686,
+  "lon": -68.0978899,
+  "tags": {
+    "amenity": "waste_disposal",
+    "check_date": "2023-06-01",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13624522843,
+  "lat": -16.5092637,
+  "lon": -68.1698821,
+  "tags": {
+    "amenity": "waste_basket",
+    "colour": "green",
+    "material": "plastic",
+    "operator": "Navegación Aérea y Aeropuertos Bolivianos",
+    "operator:short": "NAABOL",
+    "operator:type": "public",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 13899884758,
+  "lat": -16.5024189,
+  "lon": -68.1208434,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13912437383,
+  "lat": -16.5372841,
+  "lon": -68.0762032,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13912651848,
+  "lat": -16.5331000,
+  "lon": -68.0978138,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13912680454,
+  "lat": -16.5293489,
+  "lon": -68.1022791,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13917777756,
+  "lat": -16.5089501,
+  "lon": -68.1294061,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13917785888,
+  "lat": -16.5107526,
+  "lon": -68.1276644,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13917785889,
+  "lat": -16.5107404,
+  "lon": -68.1276475,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13917836183,
+  "lat": -16.5140446,
+  "lon": -68.1235273,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13917842685,
+  "lat": -16.5133099,
+  "lon": -68.1249062,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13924520722,
+  "lat": -16.5707547,
+  "lon": -68.0867033,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13924550307,
+  "lat": -16.5692479,
+  "lon": -68.0905469,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13924550333,
+  "lat": -16.5668224,
+  "lon": -68.1005255,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13944231863,
+  "lat": -16.5233826,
+  "lon": -68.1213946,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13954533419,
+  "lat": -16.4925046,
+  "lon": -68.1587018,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+},
+{
+  "type": "node",
+  "id": 13954533420,
+  "lat": -16.4929686,
+  "lon": -68.1589512,
+  "tags": {
+    "amenity": "waste_disposal",
+    "operator": "GAMLP"
+  }
+}
+
+  ]
+}

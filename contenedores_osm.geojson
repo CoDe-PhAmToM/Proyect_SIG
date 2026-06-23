@@ -1,0 +1,8533 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1342307,
+          -16.4976432
+        ]
+      },
+      "properties": {
+        "osm_id": 3313411915,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1265351,
+          -16.5004603
+        ]
+      },
+      "properties": {
+        "osm_id": 3681278238,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1060339,
+          -16.4603787
+        ]
+      },
+      "properties": {
+        "osm_id": 3682612226,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1071114,
+          -16.4906868
+        ]
+      },
+      "properties": {
+        "osm_id": 4249903193,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1072518,
+          -16.4907832
+        ]
+      },
+      "properties": {
+        "osm_id": 4249903230,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1262025,
+          -16.4877957
+        ]
+      },
+      "properties": {
+        "osm_id": 4356686674,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1207751,
+          -16.5170025
+        ]
+      },
+      "properties": {
+        "osm_id": 4366825589,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1230641,
+          -16.4959621
+        ]
+      },
+      "properties": {
+        "osm_id": 4455975430,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1320537,
+          -16.4998424
+        ]
+      },
+      "properties": {
+        "osm_id": 4535061390,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1243293,
+          -16.5027116
+        ]
+      },
+      "properties": {
+        "osm_id": 4538946987,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1244229,
+          -16.5027666
+        ]
+      },
+      "properties": {
+        "osm_id": 4538946988,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1242482,
+          -16.502871
+        ]
+      },
+      "properties": {
+        "osm_id": 4538947395,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1549322,
+          -16.487215
+        ]
+      },
+      "properties": {
+        "osm_id": 4599751316,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1585192,
+          -16.4895997
+        ]
+      },
+      "properties": {
+        "osm_id": 4603576902,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1057369,
+          -16.4892308
+        ]
+      },
+      "properties": {
+        "osm_id": 4609562889,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.105799,
+          -16.5277532
+        ]
+      },
+      "properties": {
+        "osm_id": 4668256089,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "Botellas Pett"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1198843,
+          -16.5027614
+        ]
+      },
+      "properties": {
+        "osm_id": 4671506495,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1199153,
+          -16.5027507
+        ]
+      },
+      "properties": {
+        "osm_id": 4671506496,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1152962,
+          -16.4954975
+        ]
+      },
+      "properties": {
+        "osm_id": 4671551192,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1465251,
+          -16.4854825
+        ]
+      },
+      "properties": {
+        "osm_id": 4674974591,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1071977,
+          -16.4907316
+        ]
+      },
+      "properties": {
+        "osm_id": 4677299953,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1611376,
+          -16.4889269
+        ]
+      },
+      "properties": {
+        "osm_id": 4755719553,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1053297,
+          -16.5310077
+        ]
+      },
+      "properties": {
+        "osm_id": 4826316721,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1302258,
+          -16.4973398
+        ]
+      },
+      "properties": {
+        "osm_id": 4836998916,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1048654,
+          -16.491033
+        ]
+      },
+      "properties": {
+        "osm_id": 4837011065,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.129421,
+          -16.5122943
+        ]
+      },
+      "properties": {
+        "osm_id": 4888437521,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1297218,
+          -16.5054211
+        ]
+      },
+      "properties": {
+        "osm_id": 4888453121,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1324437,
+          -16.4979498
+        ]
+      },
+      "properties": {
+        "osm_id": 4888604222,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1324906,
+          -16.4978942
+        ]
+      },
+      "properties": {
+        "osm_id": 4888604223,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1325199,
+          -16.4987368
+        ]
+      },
+      "properties": {
+        "osm_id": 4888604522,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1323091,
+          -16.4979832
+        ]
+      },
+      "properties": {
+        "osm_id": 4888606122,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1314191,
+          -16.4985672
+        ]
+      },
+      "properties": {
+        "osm_id": 4888608621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1313389,
+          -16.49859
+        ]
+      },
+      "properties": {
+        "osm_id": 4888608622,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1325354,
+          -16.4978287
+        ]
+      },
+      "properties": {
+        "osm_id": 4888612221,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1327641,
+          -16.4976128
+        ]
+      },
+      "properties": {
+        "osm_id": 4888612222,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1349239,
+          -16.4963973
+        ]
+      },
+      "properties": {
+        "osm_id": 4888612223,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1347174,
+          -16.4965136
+        ]
+      },
+      "properties": {
+        "osm_id": 4888621521,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1353249,
+          -16.4961602
+        ]
+      },
+      "properties": {
+        "osm_id": 4888621522,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1365943,
+          -16.494453
+        ]
+      },
+      "properties": {
+        "osm_id": 4888629121,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1355274,
+          -16.4949726
+        ]
+      },
+      "properties": {
+        "osm_id": 4888629123,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1339659,
+          -16.4955427
+        ]
+      },
+      "properties": {
+        "osm_id": 4890529722,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1341465,
+          -16.4957158
+        ]
+      },
+      "properties": {
+        "osm_id": 4890537521,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1334818,
+          -16.4992969
+        ]
+      },
+      "properties": {
+        "osm_id": 4890671021,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1350021,
+          -16.5022192
+        ]
+      },
+      "properties": {
+        "osm_id": 4917332123,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1272525,
+          -16.5137289
+        ]
+      },
+      "properties": {
+        "osm_id": 4917332131,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1289189,
+          -16.5060045
+        ]
+      },
+      "properties": {
+        "osm_id": 4917335727,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.133772,
+          -16.4951374
+        ]
+      },
+      "properties": {
+        "osm_id": 4917736323,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1337509,
+          -16.495436
+        ]
+      },
+      "properties": {
+        "osm_id": 4917736324,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1336661,
+          -16.4953807
+        ]
+      },
+      "properties": {
+        "osm_id": 4917736923,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1335712,
+          -16.4953475
+        ]
+      },
+      "properties": {
+        "osm_id": 4917737322,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1257836,
+          -16.5156839
+        ]
+      },
+      "properties": {
+        "osm_id": 4919509127,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1261162,
+          -16.5150022
+        ]
+      },
+      "properties": {
+        "osm_id": 4919509128,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.126152,
+          -16.5092582
+        ]
+      },
+      "properties": {
+        "osm_id": 4919509134,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1261234,
+          -16.5147986
+        ]
+      },
+      "properties": {
+        "osm_id": 4919509430,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.132731,
+          -16.4969689
+        ]
+      },
+      "properties": {
+        "osm_id": 4920982326,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1326425,
+          -16.4968078
+        ]
+      },
+      "properties": {
+        "osm_id": 4920989821,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1339045,
+          -16.4954657
+        ]
+      },
+      "properties": {
+        "osm_id": 4927244328,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1355767,
+          -16.497993
+        ]
+      },
+      "properties": {
+        "osm_id": 4927252924,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1311173,
+          -16.501791
+        ]
+      },
+      "properties": {
+        "osm_id": 4927252927,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.135598,
+          -16.494054
+        ]
+      },
+      "properties": {
+        "osm_id": 4927253223,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1315308,
+          -16.5014515
+        ]
+      },
+      "properties": {
+        "osm_id": 4927253225,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1307074,
+          -16.5020424
+        ]
+      },
+      "properties": {
+        "osm_id": 4927256423,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1327323,
+          -16.49665
+        ]
+      },
+      "properties": {
+        "osm_id": 4927256424,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1337741,
+          -16.495292
+        ]
+      },
+      "properties": {
+        "osm_id": 4927256425,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1321432,
+          -16.4941831
+        ]
+      },
+      "properties": {
+        "osm_id": 4927256521,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.141962,
+          -16.4929754
+        ]
+      },
+      "properties": {
+        "osm_id": 4927613733,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1326806,
+          -16.5011333
+        ]
+      },
+      "properties": {
+        "osm_id": 4927613744,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1354774,
+          -16.5026503
+        ]
+      },
+      "properties": {
+        "osm_id": 4931361522,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1436867,
+          -16.5113071
+        ]
+      },
+      "properties": {
+        "osm_id": 4931374021,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.127515,
+          -16.4944659
+        ]
+      },
+      "properties": {
+        "osm_id": 4932703824,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1273901,
+          -16.4943751
+        ]
+      },
+      "properties": {
+        "osm_id": 4932703825,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1274331,
+          -16.4953724
+        ]
+      },
+      "properties": {
+        "osm_id": 4932703831,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1275375,
+          -16.4953522
+        ]
+      },
+      "properties": {
+        "osm_id": 4932703832,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1274637,
+          -16.4944107
+        ]
+      },
+      "properties": {
+        "osm_id": 4932705126,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1275012,
+          -16.4948941
+        ]
+      },
+      "properties": {
+        "osm_id": 4932705129,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1274735,
+          -16.4954878
+        ]
+      },
+      "properties": {
+        "osm_id": 4932706021,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1275247,
+          -16.4954833
+        ]
+      },
+      "properties": {
+        "osm_id": 4932706121,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1295109,
+          -16.5072376
+        ]
+      },
+      "properties": {
+        "osm_id": 4933301921,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.150849,
+          -16.523634
+        ]
+      },
+      "properties": {
+        "osm_id": 4947509824,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1485909,
+          -16.5352632
+        ]
+      },
+      "properties": {
+        "osm_id": 4986865723,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1488223,
+          -16.5352394
+        ]
+      },
+      "properties": {
+        "osm_id": 4986873721,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1516633,
+          -16.5203322
+        ]
+      },
+      "properties": {
+        "osm_id": 5016695323,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1286659,
+          -16.5048407
+        ]
+      },
+      "properties": {
+        "osm_id": 5048449221,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.06599,
+          -16.5422025
+        ]
+      },
+      "properties": {
+        "osm_id": 5049837022,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0681719,
+          -16.5404395
+        ]
+      },
+      "properties": {
+        "osm_id": 5049839421,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.129469,
+          -16.5119633
+        ]
+      },
+      "properties": {
+        "osm_id": 5049839422,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1587213,
+          -16.4924926
+        ]
+      },
+      "properties": {
+        "osm_id": 5051632122,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1064709,
+          -16.5277772
+        ]
+      },
+      "properties": {
+        "osm_id": 5058259321,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1048471,
+          -16.5286323
+        ]
+      },
+      "properties": {
+        "osm_id": 5058259322,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0993575,
+          -16.5319258
+        ]
+      },
+      "properties": {
+        "osm_id": 5058262133,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0902013,
+          -16.5450172
+        ]
+      },
+      "properties": {
+        "osm_id": 5058267721,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0864455,
+          -16.5441338
+        ]
+      },
+      "properties": {
+        "osm_id": 5058269721,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0671728,
+          -16.5447488
+        ]
+      },
+      "properties": {
+        "osm_id": 5058283623,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1084211,
+          -16.5269537
+        ]
+      },
+      "properties": {
+        "osm_id": 5075237222,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0697748,
+          -16.5453476
+        ]
+      },
+      "properties": {
+        "osm_id": 5075237223,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0808348,
+          -16.5457986
+        ]
+      },
+      "properties": {
+        "osm_id": 5075237621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1380331,
+          -16.5095969
+        ]
+      },
+      "properties": {
+        "osm_id": 5075237821,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.135887,
+          -16.5069388
+        ]
+      },
+      "properties": {
+        "osm_id": 5075237822,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1367623,
+          -16.5081506
+        ]
+      },
+      "properties": {
+        "osm_id": 5075237921,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1348649,
+          -16.5051334
+        ]
+      },
+      "properties": {
+        "osm_id": 5075238021,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0669833,
+          -16.5407707
+        ]
+      },
+      "properties": {
+        "osm_id": 5075316322,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0660334,
+          -16.540468
+        ]
+      },
+      "properties": {
+        "osm_id": 5075334422,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.128984,
+          -16.5133712
+        ]
+      },
+      "properties": {
+        "osm_id": 5084479921,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1332822,
+          -16.5055732
+        ]
+      },
+      "properties": {
+        "osm_id": 5089867522,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.132775,
+          -16.5047524
+        ]
+      },
+      "properties": {
+        "osm_id": 5089942721,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.10324,
+          -16.5293386
+        ]
+      },
+      "properties": {
+        "osm_id": 5098200321,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0710145,
+          -16.5395474
+        ]
+      },
+      "properties": {
+        "osm_id": 5098345024,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0732041,
+          -16.5397727
+        ]
+      },
+      "properties": {
+        "osm_id": 5098345622,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0779293,
+          -16.5391273
+        ]
+      },
+      "properties": {
+        "osm_id": 5098367424,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0769297,
+          -16.5399882
+        ]
+      },
+      "properties": {
+        "osm_id": 5098391921,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.134126,
+          -16.514162
+        ]
+      },
+      "properties": {
+        "osm_id": 5100879921,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1335828,
+          -16.5041107
+        ]
+      },
+      "properties": {
+        "osm_id": 5102030125,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1472803,
+          -16.4799757
+        ]
+      },
+      "properties": {
+        "osm_id": 5109652528,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1590428,
+          -16.4984071
+        ]
+      },
+      "properties": {
+        "osm_id": 5113938221,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1291744,
+          -16.5107875
+        ]
+      },
+      "properties": {
+        "osm_id": 5118504221,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1288696,
+          -16.5119259
+        ]
+      },
+      "properties": {
+        "osm_id": 5120599922,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1300328,
+          -16.5149026
+        ]
+      },
+      "properties": {
+        "osm_id": 5120616221,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1300405,
+          -16.5095882
+        ]
+      },
+      "properties": {
+        "osm_id": 5122813421,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1304005,
+          -16.5081428
+        ]
+      },
+      "properties": {
+        "osm_id": 5122813422,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1298706,
+          -16.5054679
+        ]
+      },
+      "properties": {
+        "osm_id": 5122845222,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0881229,
+          -16.5303914
+        ]
+      },
+      "properties": {
+        "osm_id": 5124402425,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1195663,
+          -16.4737331
+        ]
+      },
+      "properties": {
+        "osm_id": 5136138335,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1209063,
+          -16.4767424
+        ]
+      },
+      "properties": {
+        "osm_id": 5136138336,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1204778,
+          -16.4786361
+        ]
+      },
+      "properties": {
+        "osm_id": 5136138337,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0666401,
+          -16.5185536
+        ]
+      },
+      "properties": {
+        "osm_id": 5136807744,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.065777,
+          -16.5167777
+        ]
+      },
+      "properties": {
+        "osm_id": 5136807745,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1220781,
+          -16.4757045
+        ]
+      },
+      "properties": {
+        "osm_id": 5143294547,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1428336,
+          -16.4884942
+        ]
+      },
+      "properties": {
+        "osm_id": 5143430371,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1430279,
+          -16.5228306
+        ]
+      },
+      "properties": {
+        "osm_id": 5143837721,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1411622,
+          -16.5106102
+        ]
+      },
+      "properties": {
+        "osm_id": 5143838022,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0823695,
+          -16.5042119
+        ]
+      },
+      "properties": {
+        "osm_id": 5149806405,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1288505,
+          -16.5143464
+        ]
+      },
+      "properties": {
+        "osm_id": 5154226630,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1257836,
+          -16.5107049
+        ]
+      },
+      "properties": {
+        "osm_id": 5154244021,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1208641,
+          -16.4766918
+        ]
+      },
+      "properties": {
+        "osm_id": 5154277424,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1212955,
+          -16.4795467
+        ]
+      },
+      "properties": {
+        "osm_id": 5154287221,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1369755,
+          -16.5103053
+        ]
+      },
+      "properties": {
+        "osm_id": 5172923322,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1354913,
+          -16.5088345
+        ]
+      },
+      "properties": {
+        "osm_id": 5172923323,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1382644,
+          -16.5109927
+        ]
+      },
+      "properties": {
+        "osm_id": 5172947224,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1264243,
+          -16.5043418
+        ]
+      },
+      "properties": {
+        "osm_id": 5173005322,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0697986,
+          -16.5403678
+        ]
+      },
+      "properties": {
+        "osm_id": 5173156621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1360915,
+          -16.5036849
+        ]
+      },
+      "properties": {
+        "osm_id": 5180126324,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1356769,
+          -16.504101
+        ]
+      },
+      "properties": {
+        "osm_id": 5180159123,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1285842,
+          -16.5161166
+        ]
+      },
+      "properties": {
+        "osm_id": 5194834222,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1297285,
+          -16.5162091
+        ]
+      },
+      "properties": {
+        "osm_id": 5194850721,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1148984,
+          -16.493012
+        ]
+      },
+      "properties": {
+        "osm_id": 5203017524,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1259563,
+          -16.4978079
+        ]
+      },
+      "properties": {
+        "osm_id": 5203153622,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1423839,
+          -16.5217849
+        ]
+      },
+      "properties": {
+        "osm_id": 5220402921,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.073881,
+          -16.5451291
+        ]
+      },
+      "properties": {
+        "osm_id": 5221614821,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0722511,
+          -16.5452069
+        ]
+      },
+      "properties": {
+        "osm_id": 5221615021,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1345604,
+          -16.5153393
+        ]
+      },
+      "properties": {
+        "osm_id": 5221747423,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1361668,
+          -16.5151649
+        ]
+      },
+      "properties": {
+        "osm_id": 5221751422,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1077782,
+          -16.520175
+        ]
+      },
+      "properties": {
+        "osm_id": 5222159521,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1134437,
+          -16.5193111
+        ]
+      },
+      "properties": {
+        "osm_id": 5233415221,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1119765,
+          -16.5204377
+        ]
+      },
+      "properties": {
+        "osm_id": 5233419621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1266689,
+          -16.5007425
+        ]
+      },
+      "properties": {
+        "osm_id": 5237744621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1264887,
+          -16.500627
+        ]
+      },
+      "properties": {
+        "osm_id": 5237746621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1260774,
+          -16.500374
+        ]
+      },
+      "properties": {
+        "osm_id": 5237746721,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1210126,
+          -16.5145723
+        ]
+      },
+      "properties": {
+        "osm_id": 5256589722,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1047675,
+          -16.5224186
+        ]
+      },
+      "properties": {
+        "osm_id": 5256610121,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1179576,
+          -16.4955594
+        ]
+      },
+      "properties": {
+        "osm_id": 5268888221,
+        "amenity": "recycling",
+        "recycling_type": "centre",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1057753,
+          -16.5106993
+        ]
+      },
+      "properties": {
+        "osm_id": 5310226862,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1184557,
+          -16.4984093
+        ]
+      },
+      "properties": {
+        "osm_id": 5310974022,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.119224,
+          -16.4976951
+        ]
+      },
+      "properties": {
+        "osm_id": 5310974023,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1197476,
+          -16.4965219
+        ]
+      },
+      "properties": {
+        "osm_id": 5311010822,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1204035,
+          -16.4955311
+        ]
+      },
+      "properties": {
+        "osm_id": 5311015721,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1211212,
+          -16.4943395
+        ]
+      },
+      "properties": {
+        "osm_id": 5311018121,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1213031,
+          -16.4930174
+        ]
+      },
+      "properties": {
+        "osm_id": 5311018122,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.197141,
+          -16.5601229
+        ]
+      },
+      "properties": {
+        "osm_id": 5324784621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.151814,
+          -16.5319366
+        ]
+      },
+      "properties": {
+        "osm_id": 5375657025,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1330552,
+          -16.4957947
+        ]
+      },
+      "properties": {
+        "osm_id": 5420197646,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1179128,
+          -16.495572
+        ]
+      },
+      "properties": {
+        "osm_id": 5457915023,
+        "amenity": "recycling",
+        "recycling_type": "centre",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1184937,
+          -16.4992295
+        ]
+      },
+      "properties": {
+        "osm_id": 5457915030,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1182997,
+          -16.4994717
+        ]
+      },
+      "properties": {
+        "osm_id": 5457915128,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1091004,
+          -16.4957704
+        ]
+      },
+      "properties": {
+        "osm_id": 5481665823,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1164425,
+          -16.4994904
+        ]
+      },
+      "properties": {
+        "osm_id": 5481665924,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1099252,
+          -16.4962471
+        ]
+      },
+      "properties": {
+        "osm_id": 5481665929,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1079305,
+          -16.4965907
+        ]
+      },
+      "properties": {
+        "osm_id": 5481665930,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1075542,
+          -16.4950211
+        ]
+      },
+      "properties": {
+        "osm_id": 5481665931,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1079208,
+          -16.5201736
+        ]
+      },
+      "properties": {
+        "osm_id": 5481665939,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1170779,
+          -16.4998019
+        ]
+      },
+      "properties": {
+        "osm_id": 5481666022,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1075181,
+          -16.4950089
+        ]
+      },
+      "properties": {
+        "osm_id": 5481666024,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1085944,
+          -16.4951045
+        ]
+      },
+      "properties": {
+        "osm_id": 5481666222,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1283195,
+          -16.5043186
+        ]
+      },
+      "properties": {
+        "osm_id": 5481666223,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0997956,
+          -16.5245721
+        ]
+      },
+      "properties": {
+        "osm_id": 5481666521,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1170499,
+          -16.4998813
+        ]
+      },
+      "properties": {
+        "osm_id": 5481667221,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1163709,
+          -16.4996014
+        ]
+      },
+      "properties": {
+        "osm_id": 5481667321,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1186381,
+          -16.5161484
+        ]
+      },
+      "properties": {
+        "osm_id": 5483534122,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1191055,
+          -16.5161876
+        ]
+      },
+      "properties": {
+        "osm_id": 5483541822,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1423575,
+          -16.5118191
+        ]
+      },
+      "properties": {
+        "osm_id": 5483704921,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1289313,
+          -16.5021392
+        ]
+      },
+      "properties": {
+        "osm_id": 5483712733,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1264831,
+          -16.5021759
+        ]
+      },
+      "properties": {
+        "osm_id": 5483713122,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1253152,
+          -16.5023163
+        ]
+      },
+      "properties": {
+        "osm_id": 5483713221,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1285733,
+          -16.5035159
+        ]
+      },
+      "properties": {
+        "osm_id": 5489380023,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1288026,
+          -16.5028527
+        ]
+      },
+      "properties": {
+        "osm_id": 5489661521,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1046497,
+          -16.5202718
+        ]
+      },
+      "properties": {
+        "osm_id": 5497694524,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1142161,
+          -16.509094
+        ]
+      },
+      "properties": {
+        "osm_id": 5497694725,
+        "amenity": "recycling",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1186694,
+          -16.5006442
+        ]
+      },
+      "properties": {
+        "osm_id": 5497694726,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0888729,
+          -16.5387163
+        ]
+      },
+      "properties": {
+        "osm_id": 5502216024,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1514168,
+          -16.5028992
+        ]
+      },
+      "properties": {
+        "osm_id": 5503776723,
+        "amenity": "recycling",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0655132,
+          -16.5416769
+        ]
+      },
+      "properties": {
+        "osm_id": 5615370621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0831973,
+          -16.5388253
+        ]
+      },
+      "properties": {
+        "osm_id": 5625572322,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0814782,
+          -16.5382056
+        ]
+      },
+      "properties": {
+        "osm_id": 5625582621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1093849,
+          -16.5214737
+        ]
+      },
+      "properties": {
+        "osm_id": 5631126834,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1211848,
+          -16.4839686
+        ]
+      },
+      "properties": {
+        "osm_id": 5635736021,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1432265,
+          -16.5103107
+        ]
+      },
+      "properties": {
+        "osm_id": 5635736524,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1209693,
+          -16.4712777
+        ]
+      },
+      "properties": {
+        "osm_id": 5646732009,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1228647,
+          -16.4734789
+        ]
+      },
+      "properties": {
+        "osm_id": 5646732018,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1215919,
+          -16.4744604
+        ]
+      },
+      "properties": {
+        "osm_id": 5646732228,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1223617,
+          -16.4719606
+        ]
+      },
+      "properties": {
+        "osm_id": 5646732236,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1237353,
+          -16.4727652
+        ]
+      },
+      "properties": {
+        "osm_id": 5646732249,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1235397,
+          -16.4719656
+        ]
+      },
+      "properties": {
+        "osm_id": 5646779389,
+        "amenity": "recycling",
+        "recycling_type": "centre",
+        "name": "Marecvol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0778582,
+          -16.5394584
+        ]
+      },
+      "properties": {
+        "osm_id": 5650165927,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0776539,
+          -16.5391678
+        ]
+      },
+      "properties": {
+        "osm_id": 5650176621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0939044,
+          -16.507341
+        ]
+      },
+      "properties": {
+        "osm_id": 5664175122,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1521085,
+          -16.4873774
+        ]
+      },
+      "properties": {
+        "osm_id": 5666742922,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1522429,
+          -16.4882033
+        ]
+      },
+      "properties": {
+        "osm_id": 5666749921,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1198196,
+          -16.4845481
+        ]
+      },
+      "properties": {
+        "osm_id": 5678382145,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1189362,
+          -16.4834848
+        ]
+      },
+      "properties": {
+        "osm_id": 5678391126,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1185392,
+          -16.4827277
+        ]
+      },
+      "properties": {
+        "osm_id": 5678391127,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1090634,
+          -16.5201452
+        ]
+      },
+      "properties": {
+        "osm_id": 5745852029,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1066243,
+          -16.5201936
+        ]
+      },
+      "properties": {
+        "osm_id": 5745852226,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1510896,
+          -16.5237418
+        ]
+      },
+      "properties": {
+        "osm_id": 5882582085,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2214447,
+          -16.5633972
+        ]
+      },
+      "properties": {
+        "osm_id": 5967820539,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2215095,
+          -16.5633112
+        ]
+      },
+      "properties": {
+        "osm_id": 5967820541,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2213354,
+          -16.5638612
+        ]
+      },
+      "properties": {
+        "osm_id": 5967820542,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "Punto de Reciclaje 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2212512,
+          -16.5635743
+        ]
+      },
+      "properties": {
+        "osm_id": 5967820543,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "Punto de Reciclaje 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2213161,
+          -16.5639908
+        ]
+      },
+      "properties": {
+        "osm_id": 5967820544,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2217438,
+          -16.5637025
+        ]
+      },
+      "properties": {
+        "osm_id": 5967820545,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2216188,
+          -16.563405
+        ]
+      },
+      "properties": {
+        "osm_id": 5967820546,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2210953,
+          -16.5638269
+        ]
+      },
+      "properties": {
+        "osm_id": 5967820547,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1213616,
+          -16.5077344
+        ]
+      },
+      "properties": {
+        "osm_id": 6073692489,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1211181,
+          -16.5057743
+        ]
+      },
+      "properties": {
+        "osm_id": 6073714285,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1206587,
+          -16.5042258
+        ]
+      },
+      "properties": {
+        "osm_id": 6073714286,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1156016,
+          -16.4976819
+        ]
+      },
+      "properties": {
+        "osm_id": 6093975727,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.125709,
+          -16.5154744
+        ]
+      },
+      "properties": {
+        "osm_id": 6146423887,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1136406,
+          -16.4933647
+        ]
+      },
+      "properties": {
+        "osm_id": 6178361685,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1148626,
+          -16.4930561
+        ]
+      },
+      "properties": {
+        "osm_id": 6178361785,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0833479,
+          -16.5413365
+        ]
+      },
+      "properties": {
+        "osm_id": 6199735785,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.147901,
+          -16.4952801
+        ]
+      },
+      "properties": {
+        "osm_id": 6238641886,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1482868,
+          -16.4944984
+        ]
+      },
+      "properties": {
+        "osm_id": 6238664485,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1427447,
+          -16.4980892
+        ]
+      },
+      "properties": {
+        "osm_id": 6238723285,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1419321,
+          -16.4976211
+        ]
+      },
+      "properties": {
+        "osm_id": 6238723585,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1391718,
+          -16.4978522
+        ]
+      },
+      "properties": {
+        "osm_id": 6238747286,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1369527,
+          -16.4983959
+        ]
+      },
+      "properties": {
+        "osm_id": 6238761585,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1360945,
+          -16.499761
+        ]
+      },
+      "properties": {
+        "osm_id": 6238767085,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1437426,
+          -16.5166161
+        ]
+      },
+      "properties": {
+        "osm_id": 6238776386,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1413045,
+          -16.51167
+        ]
+      },
+      "properties": {
+        "osm_id": 6238788785,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1437452,
+          -16.515498
+        ]
+      },
+      "properties": {
+        "osm_id": 6238791185,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1192633,
+          -16.4975845
+        ]
+      },
+      "properties": {
+        "osm_id": 6324588380,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0957872,
+          -16.5415731
+        ]
+      },
+      "properties": {
+        "osm_id": 6346410619,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1521266,
+          -16.5263901
+        ]
+      },
+      "properties": {
+        "osm_id": 6525030189,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1513062,
+          -16.5245061
+        ]
+      },
+      "properties": {
+        "osm_id": 6635494453,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.151518,
+          -16.5245346
+        ]
+      },
+      "properties": {
+        "osm_id": 6635494454,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1514275,
+          -16.5241587
+        ]
+      },
+      "properties": {
+        "osm_id": 6635494455,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1513504,
+          -16.5239792
+        ]
+      },
+      "properties": {
+        "osm_id": 6635494456,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1511667,
+          -16.5239978
+        ]
+      },
+      "properties": {
+        "osm_id": 6635494457,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1511181,
+          -16.5242544
+        ]
+      },
+      "properties": {
+        "osm_id": 6635494458,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1518399,
+          -16.5263086
+        ]
+      },
+      "properties": {
+        "osm_id": 6653799294,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1550931,
+          -16.5295428
+        ]
+      },
+      "properties": {
+        "osm_id": 6685117802,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1506327,
+          -16.5226177
+        ]
+      },
+      "properties": {
+        "osm_id": 6700730449,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1231238,
+          -16.4879338
+        ]
+      },
+      "properties": {
+        "osm_id": 6733054185,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1507856,
+          -16.5234042
+        ]
+      },
+      "properties": {
+        "osm_id": 6753809015,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1515128,
+          -16.5266333
+        ]
+      },
+      "properties": {
+        "osm_id": 6793980334,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.163393,
+          -16.491505
+        ]
+      },
+      "properties": {
+        "osm_id": 6852638674,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1241467,
+          -16.5212116
+        ]
+      },
+      "properties": {
+        "osm_id": 6859018454,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1581654,
+          -16.5229169
+        ]
+      },
+      "properties": {
+        "osm_id": 7100679118,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1583816,
+          -16.5235405
+        ]
+      },
+      "properties": {
+        "osm_id": 7100679119,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1580773,
+          -16.5224221
+        ]
+      },
+      "properties": {
+        "osm_id": 7100679179,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1579111,
+          -16.5223612
+        ]
+      },
+      "properties": {
+        "osm_id": 7100679180,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1577839,
+          -16.5220222
+        ]
+      },
+      "properties": {
+        "osm_id": 7100679186,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1575865,
+          -16.5216177
+        ]
+      },
+      "properties": {
+        "osm_id": 7100679250,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1572962,
+          -16.5209128
+        ]
+      },
+      "properties": {
+        "osm_id": 7100679279,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1572057,
+          -16.5207148
+        ]
+      },
+      "properties": {
+        "osm_id": 7100679506,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1504813,
+          -16.5180334
+        ]
+      },
+      "properties": {
+        "osm_id": 7313104285,
+        "amenity": "waste_disposal",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1598252,
+          -16.4883922
+        ]
+      },
+      "properties": {
+        "osm_id": 7366751310,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1596407,
+          -16.4896629
+        ]
+      },
+      "properties": {
+        "osm_id": 7367068790,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.16212,
+          -16.4890921
+        ]
+      },
+      "properties": {
+        "osm_id": 7367130262,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1573255,
+          -16.489515
+        ]
+      },
+      "properties": {
+        "osm_id": 7367136872,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.158467,
+          -16.4895401
+        ]
+      },
+      "properties": {
+        "osm_id": 7367136875,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1576158,
+          -16.4879651
+        ]
+      },
+      "properties": {
+        "osm_id": 7367198051,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.159189,
+          -16.4911408
+        ]
+      },
+      "properties": {
+        "osm_id": 7367371100,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1559844,
+          -16.4909018
+        ]
+      },
+      "properties": {
+        "osm_id": 7367447297,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1565949,
+          -16.4901398
+        ]
+      },
+      "properties": {
+        "osm_id": 7367513946,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1554672,
+          -16.4899685
+        ]
+      },
+      "properties": {
+        "osm_id": 7367513959,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1561296,
+          -16.4896523
+        ]
+      },
+      "properties": {
+        "osm_id": 7367513968,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1549311,
+          -16.4891294
+        ]
+      },
+      "properties": {
+        "osm_id": 7367513974,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1562006,
+          -16.4882282
+        ]
+      },
+      "properties": {
+        "osm_id": 7367552139,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1561605,
+          -16.4882105
+        ]
+      },
+      "properties": {
+        "osm_id": 7367552140,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.155504,
+          -16.4860641
+        ]
+      },
+      "properties": {
+        "osm_id": 7367552166,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1555414,
+          -16.4860149
+        ]
+      },
+      "properties": {
+        "osm_id": 7367552167,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1590443,
+          -16.4869621
+        ]
+      },
+      "properties": {
+        "osm_id": 7367560442,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1587007,
+          -16.486352
+        ]
+      },
+      "properties": {
+        "osm_id": 7367560443,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1583079,
+          -16.4858734
+        ]
+      },
+      "properties": {
+        "osm_id": 7367560446,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1643408,
+          -16.487367
+        ]
+      },
+      "properties": {
+        "osm_id": 7367589647,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1639183,
+          -16.4885163
+        ]
+      },
+      "properties": {
+        "osm_id": 7367620800,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1551959,
+          -16.5294346
+        ]
+      },
+      "properties": {
+        "osm_id": 7524628454,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.152269,
+          -16.5261342
+        ]
+      },
+      "properties": {
+        "osm_id": 7926421710,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1467556,
+          -16.52589
+        ]
+      },
+      "properties": {
+        "osm_id": 7965082248,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1512275,
+          -16.5239848
+        ]
+      },
+      "properties": {
+        "osm_id": 8040124009,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1507446,
+          -16.5241428
+        ]
+      },
+      "properties": {
+        "osm_id": 8040124010,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.152105,
+          -16.4962454
+        ]
+      },
+      "properties": {
+        "osm_id": 8069940296,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1514248,
+          -16.4956884
+        ]
+      },
+      "properties": {
+        "osm_id": 8069940298,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.151729,
+          -16.4956679
+        ]
+      },
+      "properties": {
+        "osm_id": 8069940304,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1513933,
+          -16.4960274
+        ]
+      },
+      "properties": {
+        "osm_id": 8069940327,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1522964,
+          -16.497033
+        ]
+      },
+      "properties": {
+        "osm_id": 8071037631,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1523116,
+          -16.49726
+        ]
+      },
+      "properties": {
+        "osm_id": 8071037632,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1334699,
+          -16.5007572
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467322,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1335426,
+          -16.5007008
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467323,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1332599,
+          -16.5009571
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467332,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1331494,
+          -16.5010482
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467333,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.132952,
+          -16.5014227
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467398,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1327351,
+          -16.5015768
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467413,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1324968,
+          -16.5020642
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467506,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1324264,
+          -16.5020248
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467507,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1325839,
+          -16.5019406
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467510,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1325135,
+          -16.5019013
+        ]
+      },
+      "properties": {
+        "osm_id": 8218467511,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0920551,
+          -16.5444497
+        ]
+      },
+      "properties": {
+        "osm_id": 8258245266,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0921257,
+          -16.5444055
+        ]
+      },
+      "properties": {
+        "osm_id": 8258245267,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0919765,
+          -16.5443353
+        ]
+      },
+      "properties": {
+        "osm_id": 8258245290,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1507764,
+          -16.5243371
+        ]
+      },
+      "properties": {
+        "osm_id": 8294548309,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1040131,
+          -16.4884443
+        ]
+      },
+      "properties": {
+        "osm_id": 8327479223,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1046242,
+          -16.4883266
+        ]
+      },
+      "properties": {
+        "osm_id": 8327479224,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1006656,
+          -16.5287973
+        ]
+      },
+      "properties": {
+        "osm_id": 8648142958,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1017029,
+          -16.527085
+        ]
+      },
+      "properties": {
+        "osm_id": 8648142959,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0689997,
+          -16.5265471
+        ]
+      },
+      "properties": {
+        "osm_id": 8722339867,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1204818,
+          -16.4709369
+        ]
+      },
+      "properties": {
+        "osm_id": 8902469850,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1316909,
+          -16.4935489
+        ]
+      },
+      "properties": {
+        "osm_id": 9538741818,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1308176,
+          -16.4940777
+        ]
+      },
+      "properties": {
+        "osm_id": 9538741819,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1311954,
+          -16.4944892
+        ]
+      },
+      "properties": {
+        "osm_id": 9538741820,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1759666,
+          -16.5192201
+        ]
+      },
+      "properties": {
+        "osm_id": 9570171366,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1768624,
+          -16.5201896
+        ]
+      },
+      "properties": {
+        "osm_id": 9570171367,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1769134,
+          -16.5205239
+        ]
+      },
+      "properties": {
+        "osm_id": 9570177963,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1760739,
+          -16.5193359
+        ]
+      },
+      "properties": {
+        "osm_id": 9570213723,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.175972,
+          -16.519503
+        ]
+      },
+      "properties": {
+        "osm_id": 9570213725,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1302115,
+          -16.4931398
+        ]
+      },
+      "properties": {
+        "osm_id": 9572957857,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1307342,
+          -16.4928325
+        ]
+      },
+      "properties": {
+        "osm_id": 9572957858,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0886936,
+          -16.5191736
+        ]
+      },
+      "properties": {
+        "osm_id": 9697656517,
+        "amenity": "recycling",
+        "recycling_type": "centre",
+        "name": "Centro de acopio ReciclAndantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0671352,
+          -16.5395817
+        ]
+      },
+      "properties": {
+        "osm_id": 10134273817,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0682828,
+          -16.5394298
+        ]
+      },
+      "properties": {
+        "osm_id": 10134285717,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0684042,
+          -16.5391538
+        ]
+      },
+      "properties": {
+        "osm_id": 10134289917,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0684855,
+          -16.5390997
+        ]
+      },
+      "properties": {
+        "osm_id": 10134294017,
+        "amenity": "waste_basket",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0690389,
+          -16.5378964
+        ]
+      },
+      "properties": {
+        "osm_id": 10134300617,
+        "amenity": "waste_basket",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0676817,
+          -16.538347
+        ]
+      },
+      "properties": {
+        "osm_id": 10134305617,
+        "amenity": "waste_basket",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0690999,
+          -16.5384063
+        ]
+      },
+      "properties": {
+        "osm_id": 10134314017,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0692468,
+          -16.5392109
+        ]
+      },
+      "properties": {
+        "osm_id": 10162716217,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0674646,
+          -16.539149
+        ]
+      },
+      "properties": {
+        "osm_id": 10178144357,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0659033,
+          -16.5386471
+        ]
+      },
+      "properties": {
+        "osm_id": 10178144371,
+        "amenity": "waste_basket",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0659043,
+          -16.5384716
+        ]
+      },
+      "properties": {
+        "osm_id": 10178144372,
+        "amenity": "waste_basket",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1377638,
+          -16.5067356
+        ]
+      },
+      "properties": {
+        "osm_id": 10240016509,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1212931,
+          -16.4973925
+        ]
+      },
+      "properties": {
+        "osm_id": 10291443436,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1215775,
+          -16.4943688
+        ]
+      },
+      "properties": {
+        "osm_id": 10291443500,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1216986,
+          -16.4896608
+        ]
+      },
+      "properties": {
+        "osm_id": 10295106427,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1465519,
+          -16.4812925
+        ]
+      },
+      "properties": {
+        "osm_id": 10646907285,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.145792,
+          -16.4831378
+        ]
+      },
+      "properties": {
+        "osm_id": 10646998297,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1452835,
+          -16.4844591
+        ]
+      },
+      "properties": {
+        "osm_id": 10647012064,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.141479,
+          -16.486425
+        ]
+      },
+      "properties": {
+        "osm_id": 10647039431,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.140641,
+          -16.4875016
+        ]
+      },
+      "properties": {
+        "osm_id": 10647100200,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1406136,
+          -16.487527
+        ]
+      },
+      "properties": {
+        "osm_id": 10647110635,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1406712,
+          -16.4874707
+        ]
+      },
+      "properties": {
+        "osm_id": 10647126722,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0932462,
+          -16.4879599
+        ]
+      },
+      "properties": {
+        "osm_id": 10679284572,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0659176,
+          -16.5390356
+        ]
+      },
+      "properties": {
+        "osm_id": 10717550871,
+        "amenity": "waste_basket",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0660786,
+          -16.5391403
+        ]
+      },
+      "properties": {
+        "osm_id": 10718051295,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.065856,
+          -16.5388437
+        ]
+      },
+      "properties": {
+        "osm_id": 10762073542,
+        "amenity": "waste_basket",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1394715,
+          -16.5307459
+        ]
+      },
+      "properties": {
+        "osm_id": 10799955105,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0709814,
+          -16.5395468
+        ]
+      },
+      "properties": {
+        "osm_id": 10847494559,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0690365,
+          -16.5388948
+        ]
+      },
+      "properties": {
+        "osm_id": 10847815227,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0683653,
+          -16.5394334
+        ]
+      },
+      "properties": {
+        "osm_id": 10865234854,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1313253,
+          -16.4947423
+        ]
+      },
+      "properties": {
+        "osm_id": 10885483087,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1311994,
+          -16.4944682
+        ]
+      },
+      "properties": {
+        "osm_id": 10885483088,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0837711,
+          -16.4983786
+        ]
+      },
+      "properties": {
+        "osm_id": 10940368380,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0821832,
+          -16.5035079
+        ]
+      },
+      "properties": {
+        "osm_id": 10940368382,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0861556,
+          -16.5128504
+        ]
+      },
+      "properties": {
+        "osm_id": 10940406748,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0861574,
+          -16.5112331
+        ]
+      },
+      "properties": {
+        "osm_id": 10940406749,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.086177,
+          -16.511221
+        ]
+      },
+      "properties": {
+        "osm_id": 10940406750,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0858444,
+          -16.5109143
+        ]
+      },
+      "properties": {
+        "osm_id": 10940406752,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0829292,
+          -16.4978008
+        ]
+      },
+      "properties": {
+        "osm_id": 10947443956,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0692157,
+          -16.5395739
+        ]
+      },
+      "properties": {
+        "osm_id": 10972348967,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0816579,
+          -16.5407175
+        ]
+      },
+      "properties": {
+        "osm_id": 10972353205,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0828483,
+          -16.5398838
+        ]
+      },
+      "properties": {
+        "osm_id": 10972353206,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.069279,
+          -16.5386718
+        ]
+      },
+      "properties": {
+        "osm_id": 11009380603,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0655061,
+          -16.5372217
+        ]
+      },
+      "properties": {
+        "osm_id": 11059802442,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0650443,
+          -16.5394674
+        ]
+      },
+      "properties": {
+        "osm_id": 11115329480,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1134487,
+          -16.4690381
+        ]
+      },
+      "properties": {
+        "osm_id": 11125425235,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1430528,
+          -16.4884678
+        ]
+      },
+      "properties": {
+        "osm_id": 11126367978,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1213167,
+          -16.4946976
+        ]
+      },
+      "properties": {
+        "osm_id": 11137480873,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1211088,
+          -16.4943596
+        ]
+      },
+      "properties": {
+        "osm_id": 11137480883,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1211004,
+          -16.4943807
+        ]
+      },
+      "properties": {
+        "osm_id": 11137480884,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1212783,
+          -16.4932232
+        ]
+      },
+      "properties": {
+        "osm_id": 11137493938,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1212781,
+          -16.4932446
+        ]
+      },
+      "properties": {
+        "osm_id": 11137493939,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1211037,
+          -16.5012905
+        ]
+      },
+      "properties": {
+        "osm_id": 11139878476,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1211016,
+          -16.5013111
+        ]
+      },
+      "properties": {
+        "osm_id": 11139878477,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0904118,
+          -16.5410979
+        ]
+      },
+      "properties": {
+        "osm_id": 11140127821,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0904071,
+          -16.5411173
+        ]
+      },
+      "properties": {
+        "osm_id": 11140127822,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1406952,
+          -16.5128309
+        ]
+      },
+      "properties": {
+        "osm_id": 11146710104,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.065776,
+          -16.5385788
+        ]
+      },
+      "properties": {
+        "osm_id": 11151685688,
+        "amenity": "waste_basket",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.068102,
+          -16.5394599
+        ]
+      },
+      "properties": {
+        "osm_id": 11169755837,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1264492,
+          -16.5064241
+        ]
+      },
+      "properties": {
+        "osm_id": 11177972967,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1174897,
+          -16.473847
+        ]
+      },
+      "properties": {
+        "osm_id": 11196664090,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.117613,
+          -16.4740525
+        ]
+      },
+      "properties": {
+        "osm_id": 11196664091,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1216809,
+          -16.4872369
+        ]
+      },
+      "properties": {
+        "osm_id": 11197779621,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1209302,
+          -16.4993474
+        ]
+      },
+      "properties": {
+        "osm_id": 11200090201,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1209053,
+          -16.4993474
+        ]
+      },
+      "properties": {
+        "osm_id": 11200090202,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1420893,
+          -16.4886869
+        ]
+      },
+      "properties": {
+        "osm_id": 11234600676,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1286112,
+          -16.5081664
+        ]
+      },
+      "properties": {
+        "osm_id": 11271851363,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0903085,
+          -16.5450929
+        ]
+      },
+      "properties": {
+        "osm_id": 11276301052,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0875353,
+          -16.5439777
+        ]
+      },
+      "properties": {
+        "osm_id": 11277499972,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.087931,
+          -16.5451517
+        ]
+      },
+      "properties": {
+        "osm_id": 11277500049,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0766527,
+          -16.546671
+        ]
+      },
+      "properties": {
+        "osm_id": 11288990338,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0773133,
+          -16.5456855
+        ]
+      },
+      "properties": {
+        "osm_id": 11289061966,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0780081,
+          -16.5400655
+        ]
+      },
+      "properties": {
+        "osm_id": 11295547060,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0779856,
+          -16.5400655
+        ]
+      },
+      "properties": {
+        "osm_id": 11295547061,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0794415,
+          -16.5405589
+        ]
+      },
+      "properties": {
+        "osm_id": 11295547066,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0797125,
+          -16.5402032
+        ]
+      },
+      "properties": {
+        "osm_id": 11295566680,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0828,
+          -16.544324
+        ]
+      },
+      "properties": {
+        "osm_id": 11296380660,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1210139,
+          -16.5166558
+        ]
+      },
+      "properties": {
+        "osm_id": 11328374909,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1209753,
+          -16.51665
+        ]
+      },
+      "properties": {
+        "osm_id": 11328374910,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1209433,
+          -16.5166467
+        ]
+      },
+      "properties": {
+        "osm_id": 11328374911,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0833054,
+          -16.5413221
+        ]
+      },
+      "properties": {
+        "osm_id": 11336618680,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.083008,
+          -16.5398517
+        ]
+      },
+      "properties": {
+        "osm_id": 11336618706,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1000558,
+          -16.4953879
+        ]
+      },
+      "properties": {
+        "osm_id": 11339347535,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1009868,
+          -16.4971352
+        ]
+      },
+      "properties": {
+        "osm_id": 11359446434,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1011043,
+          -16.4989169
+        ]
+      },
+      "properties": {
+        "osm_id": 11395030848,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1019814,
+          -16.4969703
+        ]
+      },
+      "properties": {
+        "osm_id": 11395030855,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0887979,
+          -16.5162613
+        ]
+      },
+      "properties": {
+        "osm_id": 11454976765,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0825439,
+          -16.5023245
+        ]
+      },
+      "properties": {
+        "osm_id": 11726412080,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0750026,
+          -16.5472081
+        ]
+      },
+      "properties": {
+        "osm_id": 11736898105,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0754325,
+          -16.5465904
+        ]
+      },
+      "properties": {
+        "osm_id": 11736898110,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0851307,
+          -16.5213369
+        ]
+      },
+      "properties": {
+        "osm_id": 11740214081,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0877982,
+          -16.520508
+        ]
+      },
+      "properties": {
+        "osm_id": 11740333869,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.078863,
+          -16.5386798
+        ]
+      },
+      "properties": {
+        "osm_id": 11740339375,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0788682,
+          -16.5386983
+        ]
+      },
+      "properties": {
+        "osm_id": 11740339376,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0856149,
+          -16.506451
+        ]
+      },
+      "properties": {
+        "osm_id": 11770359033,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0858304,
+          -16.5071716
+        ]
+      },
+      "properties": {
+        "osm_id": 11770373125,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0873239,
+          -16.5130043
+        ]
+      },
+      "properties": {
+        "osm_id": 11772775086,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0861718,
+          -16.5127632
+        ]
+      },
+      "properties": {
+        "osm_id": 11772775094,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.086732,
+          -16.5128485
+        ]
+      },
+      "properties": {
+        "osm_id": 11772775114,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0875262,
+          -16.5140512
+        ]
+      },
+      "properties": {
+        "osm_id": 11772775142,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0856589,
+          -16.5120241
+        ]
+      },
+      "properties": {
+        "osm_id": 11774168327,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0854046,
+          -16.508459
+        ]
+      },
+      "properties": {
+        "osm_id": 11774224068,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0854157,
+          -16.509852
+        ]
+      },
+      "properties": {
+        "osm_id": 11774234174,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0860346,
+          -16.509435
+        ]
+      },
+      "properties": {
+        "osm_id": 11774243879,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0858589,
+          -16.5099614
+        ]
+      },
+      "properties": {
+        "osm_id": 11774460256,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0769403,
+          -16.5435128
+        ]
+      },
+      "properties": {
+        "osm_id": 11777106496,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0764695,
+          -16.5443713
+        ]
+      },
+      "properties": {
+        "osm_id": 11777106500,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0900857,
+          -16.5390702
+        ]
+      },
+      "properties": {
+        "osm_id": 11784477364,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0852052,
+          -16.5224
+        ]
+      },
+      "properties": {
+        "osm_id": 11786663806,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.084867,
+          -16.5278062
+        ]
+      },
+      "properties": {
+        "osm_id": 11798820764,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0848637,
+          -16.5278325
+        ]
+      },
+      "properties": {
+        "osm_id": 11798820765,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0876566,
+          -16.5172111
+        ]
+      },
+      "properties": {
+        "osm_id": 11800635993,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0869225,
+          -16.5176166
+        ]
+      },
+      "properties": {
+        "osm_id": 11800636005,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0861064,
+          -16.5172673
+        ]
+      },
+      "properties": {
+        "osm_id": 11800636019,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0861018,
+          -16.5172892
+        ]
+      },
+      "properties": {
+        "osm_id": 11800636020,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0868934,
+          -16.5166575
+        ]
+      },
+      "properties": {
+        "osm_id": 11800636026,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0868049,
+          -16.515138
+        ]
+      },
+      "properties": {
+        "osm_id": 11800636050,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0875835,
+          -16.5154801
+        ]
+      },
+      "properties": {
+        "osm_id": 11800636051,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0835021,
+          -16.5015304
+        ]
+      },
+      "properties": {
+        "osm_id": 11808828666,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0822806,
+          -16.538825
+        ]
+      },
+      "properties": {
+        "osm_id": 11808831184,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0817499,
+          -16.5019397
+        ]
+      },
+      "properties": {
+        "osm_id": 11808848590,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0867591,
+          -16.5292445
+        ]
+      },
+      "properties": {
+        "osm_id": 11810449689,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0873312,
+          -16.5294736
+        ]
+      },
+      "properties": {
+        "osm_id": 11810458302,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0854653,
+          -16.5291383
+        ]
+      },
+      "properties": {
+        "osm_id": 11810477718,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.085463,
+          -16.5291606
+        ]
+      },
+      "properties": {
+        "osm_id": 11810477719,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0869541,
+          -16.5385179
+        ]
+      },
+      "properties": {
+        "osm_id": 11847793299,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0869313,
+          -16.5385155
+        ]
+      },
+      "properties": {
+        "osm_id": 11847793300,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0664478,
+          -16.5389638
+        ]
+      },
+      "properties": {
+        "osm_id": 11873082175,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "Punto de Reciclaje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0669027,
+          -16.5384579
+        ]
+      },
+      "properties": {
+        "osm_id": 11938201200,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1576768,
+          -16.5241441
+        ]
+      },
+      "properties": {
+        "osm_id": 11951898265,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1544396,
+          -16.5252765
+        ]
+      },
+      "properties": {
+        "osm_id": 11951906763,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.152333,
+          -16.5262931
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202479,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1514136,
+          -16.5263654
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202480,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1489478,
+          -16.5276445
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202481,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1489633,
+          -16.5276386
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202482,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1474537,
+          -16.5281728
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202483,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.147867,
+          -16.5251322
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202484,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1487916,
+          -16.5247106
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202485,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1501497,
+          -16.5241706
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202486,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1515419,
+          -16.5236235
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202487,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1534406,
+          -16.5230321
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202488,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1573951,
+          -16.5211009
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202489,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1574528,
+          -16.5210722
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202490,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1574831,
+          -16.5210618
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202491,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1581004,
+          -16.5222139
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202492,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1584454,
+          -16.5236322
+        ]
+      },
+      "properties": {
+        "osm_id": 11952202493,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1483055,
+          -16.5226145
+        ]
+      },
+      "properties": {
+        "osm_id": 11967918863,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14882,
+          -16.521652
+        ]
+      },
+      "properties": {
+        "osm_id": 11967918864,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1497306,
+          -16.5205736
+        ]
+      },
+      "properties": {
+        "osm_id": 11967918865,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1516296,
+          -16.5191053
+        ]
+      },
+      "properties": {
+        "osm_id": 11967918866,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1229679,
+          -16.5034026
+        ]
+      },
+      "properties": {
+        "osm_id": 11985545975,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1238644,
+          -16.5028168
+        ]
+      },
+      "properties": {
+        "osm_id": 11985545983,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0663229,
+          -16.5382318
+        ]
+      },
+      "properties": {
+        "osm_id": 11986220014,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1238798,
+          -16.5115723
+        ]
+      },
+      "properties": {
+        "osm_id": 12018328200,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1778778,
+          -16.516352
+        ]
+      },
+      "properties": {
+        "osm_id": 12022973711,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1260163,
+          -16.4969613
+        ]
+      },
+      "properties": {
+        "osm_id": 12026782228,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0709591,
+          -16.5388589
+        ]
+      },
+      "properties": {
+        "osm_id": 12092566184,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0682072,
+          -16.5394621
+        ]
+      },
+      "properties": {
+        "osm_id": 12155942969,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0682008,
+          -16.5388876
+        ]
+      },
+      "properties": {
+        "osm_id": 12155942975,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0680636,
+          -16.5385141
+        ]
+      },
+      "properties": {
+        "osm_id": 12155942981,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0677878,
+          -16.5385023
+        ]
+      },
+      "properties": {
+        "osm_id": 12155942982,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0674127,
+          -16.5385177
+        ]
+      },
+      "properties": {
+        "osm_id": 12155942983,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.095266,
+          -16.4845011
+        ]
+      },
+      "properties": {
+        "osm_id": 12236631001,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0947002,
+          -16.4857645
+        ]
+      },
+      "properties": {
+        "osm_id": 12236631002,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14839,
+          -16.4794395
+        ]
+      },
+      "properties": {
+        "osm_id": 12293973419,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1475414,
+          -16.480297
+        ]
+      },
+      "properties": {
+        "osm_id": 12293973432,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.087714,
+          -16.5179823
+        ]
+      },
+      "properties": {
+        "osm_id": 12505432279,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0868976,
+          -16.5166974
+        ]
+      },
+      "properties": {
+        "osm_id": 12505432282,
+        "amenity": "recycling",
+        "recycling_type": "container",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1391244,
+          -16.5382155
+        ]
+      },
+      "properties": {
+        "osm_id": 12741610001,
+        "amenity": "recycling",
+        "recycling_type": "centre",
+        "name": "Sistema de Regulación Municipal (Siremu)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0801162,
+          -16.5377066
+        ]
+      },
+      "properties": {
+        "osm_id": 13019864783,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0801364,
+          -16.5377165
+        ]
+      },
+      "properties": {
+        "osm_id": 13019864784,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0912764,
+          -16.5421024
+        ]
+      },
+      "properties": {
+        "osm_id": 13027613485,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1174534,
+          -16.4999305
+        ]
+      },
+      "properties": {
+        "osm_id": 13059834263,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1173628,
+          -16.5012479
+        ]
+      },
+      "properties": {
+        "osm_id": 13059834264,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0909827,
+          -16.5393785
+        ]
+      },
+      "properties": {
+        "osm_id": 13359480461,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1240109,
+          -16.4682174
+        ]
+      },
+      "properties": {
+        "osm_id": 13360890650,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.121459,
+          -16.4690692
+        ]
+      },
+      "properties": {
+        "osm_id": 13360890651,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1580567,
+          -16.5001189
+        ]
+      },
+      "properties": {
+        "osm_id": 13393379658,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.097299,
+          -16.4884801
+        ]
+      },
+      "properties": {
+        "osm_id": 13599852109,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0978899,
+          -16.4889686
+        ]
+      },
+      "properties": {
+        "osm_id": 13599852117,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1698821,
+          -16.5092637
+        ]
+      },
+      "properties": {
+        "osm_id": 13624522843,
+        "amenity": "waste_basket",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1208434,
+          -16.5024189
+        ]
+      },
+      "properties": {
+        "osm_id": 13899884758,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0762032,
+          -16.5372841
+        ]
+      },
+      "properties": {
+        "osm_id": 13912437383,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0978138,
+          -16.5331
+        ]
+      },
+      "properties": {
+        "osm_id": 13912651848,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1022791,
+          -16.5293489
+        ]
+      },
+      "properties": {
+        "osm_id": 13912680454,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1294061,
+          -16.5089501
+        ]
+      },
+      "properties": {
+        "osm_id": 13917777756,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1276644,
+          -16.5107526
+        ]
+      },
+      "properties": {
+        "osm_id": 13917785888,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1276475,
+          -16.5107404
+        ]
+      },
+      "properties": {
+        "osm_id": 13917785889,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1235273,
+          -16.5140446
+        ]
+      },
+      "properties": {
+        "osm_id": 13917836183,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1249062,
+          -16.5133099
+        ]
+      },
+      "properties": {
+        "osm_id": 13917842685,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0867033,
+          -16.5707547
+        ]
+      },
+      "properties": {
+        "osm_id": 13924520722,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0905469,
+          -16.5692479
+        ]
+      },
+      "properties": {
+        "osm_id": 13924550307,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1005255,
+          -16.5668224
+        ]
+      },
+      "properties": {
+        "osm_id": 13924550333,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1213946,
+          -16.5233826
+        ]
+      },
+      "properties": {
+        "osm_id": 13944231863,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1587018,
+          -16.4925046
+        ]
+      },
+      "properties": {
+        "osm_id": 13954533419,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1589512,
+          -16.4929686
+        ]
+      },
+      "properties": {
+        "osm_id": 13954533420,
+        "amenity": "waste_disposal",
+        "recycling_type": "sin_dato",
+        "name": "sin_dato"
+      }
+    }
+  ]
+}
