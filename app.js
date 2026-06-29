@@ -749,7 +749,7 @@ async function fetchRealData() {
         out body;
     `;
 
-    const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`;
+    const url = `https://overpass.kumi.systems/api/interpreter?data=${encodeURIComponent(query)}`;
     const maxRetries = 3;
     let attempt = 0;
     
