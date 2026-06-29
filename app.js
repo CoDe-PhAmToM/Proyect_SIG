@@ -7,6 +7,11 @@ let clustersLayer;
 let distritoZonasLayer;
 let layersControl;
 
+/* ===== Módulo de Rutas ===== */
+let rutaLayer = null;          // línea recta (azul)
+let rutaOptLayer = null;       // ruta OSRM (roja)
+let rutaMarkersLayer = null;   // marcadores origen/destino de la ruta activa
+
 /* ===== Estado compartido entre la carga inicial y el recálculo tras recibir datos OSM ===== */
 let distritoCountsGlobal = {};
 let distritoPuntos = {};
@@ -444,12 +449,16 @@ document.addEventListener("DOMContentLoaded", function() {
                 critCounts[cat] = (critCounts[cat] || 0) + 1;
 
                 const marker = L.circleMarker([lat, lng], { radius: 7, fillColor: color, color: '#fff', weight:1, fillOpacity:0.95 });
-                let html = '<b>Punto Crítico</b><br>';
+                let html = '<b>🗑 Punto Crítico</b><br>';
                 if (feature.properties) {
                     for (const key in feature.properties) {
                         html += `${key}: ${feature.properties[key]}<br>`;
                     }
                 }
+                const nombrePunto = (feature.properties && feature.properties.tipo_rs) ? feature.properties.tipo_rs : 'sin dato';
+                html += `<br><button onclick="trazarRutaAlContenedor(${lat},${lng},'${nombrePunto}')" 
+                    style="margin-top:4px;padding:4px 10px;background:#c62828;color:#fff;border:none;border-radius:4px;cursor:pointer;font-size:12px">
+                    🗺 Ruta al contenedor más cercano</button>`;
                 marker.bindPopup(html);
                 critCategoryLayers[cat].addLayer(marker);
             });
@@ -471,10 +480,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 console.warn('No se pudo construir el Mapa de Calor.', heatErr);
             }
 
-            /* ===== Clustering espacial (DBSCAN, eps≈300m, minPts=3) =====
-               Todo este bloque va en su propio try/catch para garantizar que,
-               pase lo que pase, el panel de estadísticas siempre termine de
-               cargar (nunca se quede en "Cargando análisis..."). */
+            /* ===== Clustering espacial (DBSCAN, eps≈300m, minPts=3) ===== */
             try {
                 const ptsForCluster = geo.features
                     .filter(f => f.geometry && f.geometry.coordinates)
@@ -823,6 +829,116 @@ async function fetchRealData() {
     
 }
 window.fetchRealData = fetchRealData;
+
+/* ===== Módulo de Rutas: punto crítico → contenedor OSM más cercano ===== */
+
+/**
+ * Devuelve el contenedor OSM más cercano (en línea recta) al punto [lat, lng].
+ * Recorre todas las capas de realBinsLayer para obtener sus coordenadas.
+ */
+function contenedorMasCercano(lat, lng) {
+    let minDist = Infinity;
+    let closest = null;
+    realBinsLayer.eachLayer(layer => {
+        if (!layer.getLatLng) return;
+        const c = layer.getLatLng();
+        const d = haversineMeters(lat, lng, c.lat, c.lng);
+        if (d < minDist) {
+            minDist = d;
+            closest = { lat: c.lat, lng: c.lng, dist: d, layer };
+        }
+    });
+    return closest;
+}
+
+/**
+ * Limpia las capas de ruta anteriores del mapa.
+ */
+function limpiarRuta() {
+    if (rutaLayer)        { map.removeLayer(rutaLayer);        rutaLayer = null; }
+    if (rutaOptLayer)     { map.removeLayer(rutaOptLayer);     rutaOptLayer = null; }
+    if (rutaMarkersLayer) { map.removeLayer(rutaMarkersLayer); rutaMarkersLayer = null; }
+}
+
+/**
+ * Dado un punto crítico (lat, lng) y el contenedor más cercano:
+ * 1. Dibuja la línea recta (azul) con la distancia en línea recta.
+ * 2. Consulta OSRM y dibuja la ruta óptima por calles (roja) con distancia y tiempo.
+ * 3. Abre un popup en el contenedor con el resumen.
+ */
+async function trazarRutaAlContenedor(latOrigen, lngOrigen, nombreOrigen) {
+    // 1. Obtener contenedor más cercano
+    const dest = contenedorMasCercano(latOrigen, lngOrigen);
+    if (!dest) {
+        alert('No hay contenedores OSM cargados todavía. Espera unos segundos e intenta de nuevo.');
+        return;
+    }
+
+    limpiarRuta();
+    rutaMarkersLayer = L.layerGroup().addTo(map);
+
+    // 2. Línea recta (azul)
+    const geomRecta = L.polyline(
+        [[latOrigen, lngOrigen], [dest.lat, dest.lng]],
+        { color: '#1565c0', weight: 2.5, dashArray: '6 4', opacity: 0.85 }
+    ).addTo(map);
+    rutaLayer = geomRecta;
+
+    const distRecta = (dest.dist / 1000).toFixed(2);
+
+    // Marcador origen
+    const mOrigen = L.circleMarker([latOrigen, lngOrigen], {
+        radius: 9, fillColor: '#1565c0', color: '#fff', weight: 2, fillOpacity: 1
+    }).bindPopup(`<b>🗑 Punto Crítico</b><br>${nombreOrigen}<br><i>Origen de la ruta</i>`).addTo(rutaMarkersLayer);
+
+    // 3. Ruta óptima OSRM (roja)
+    const osrmUrl = `https://router.project-osrm.org/route/v1/driving/` +
+        `${lngOrigen},${latOrigen};${dest.lng},${dest.lat}` +
+        `?overview=full&geometries=geojson`;
+
+    let distOpt = null, durMin = null;
+    try {
+        const resp = await fetch(osrmUrl);
+        const data = await resp.json();
+        if (data.routes && data.routes.length > 0) {
+            const ruta = data.routes[0];
+            distOpt = (ruta.distance / 1000).toFixed(2);
+            durMin  = (ruta.duration / 60).toFixed(1);
+
+            const coordsGeo = ruta.geometry.coordinates.map(c => [c[1], c[0]]);
+            rutaOptLayer = L.polyline(coordsGeo, {
+                color: '#c62828', weight: 4, opacity: 0.9
+            }).addTo(map);
+        }
+    } catch (e) {
+        console.warn('OSRM no disponible, solo se muestra la línea recta.', e);
+    }
+
+    // 4. Popup en el contenedor destino con resumen completo
+    const resumen = distOpt
+        ? `<b>📦 Contenedor más cercano</b><br>
+           Distancia en línea recta: <b>${distRecta} km</b><br>
+           Ruta óptima por calles: <b>${distOpt} km</b><br>
+           Tiempo estimado: <b>${durMin} min</b><br>
+           <small style="color:#555">Línea azul = recta · Línea roja = ruta OSRM</small><br>
+           <a href="#" onclick="limpiarRuta();return false;" style="color:#c62828;font-size:11px">✕ Cerrar ruta</a>`
+        : `<b>📦 Contenedor más cercano</b><br>
+           Distancia en línea recta: <b>${distRecta} km</b><br>
+           <small style="color:#888">(Ruta OSRM no disponible)</small><br>
+           <a href="#" onclick="limpiarRuta();return false;" style="color:#c62828;font-size:11px">✕ Cerrar ruta</a>`;
+
+    const mDest = L.circleMarker([dest.lat, dest.lng], {
+        radius: 9, fillColor: '#c62828', color: '#fff', weight: 2, fillOpacity: 1
+    }).bindPopup(resumen).addTo(rutaMarkersLayer);
+
+    // Ajustar vista para mostrar ambos puntos
+    map.fitBounds(L.latLngBounds([[latOrigen, lngOrigen], [dest.lat, dest.lng]]), { padding: [60, 60] });
+    mDest.openPopup();
+}
+
+// Exponer al scope global para que los botones en popups puedan llamarla
+window.trazarRutaAlContenedor = trazarRutaAlContenedor;
+window.limpiarRuta = limpiarRuta;
 
 /* ===== Toggle del panel de Análisis Espacial ===== */
 (function setupStatsPanel() {
